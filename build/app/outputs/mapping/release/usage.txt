@@ -1,0 +1,2329 @@
+com.coloros.ocs.base.common.CapabilityInfo:
+    public java.util.List getFeatures()
+    public int getVersion()
+    public android.os.IBinder getBinder()
+com.coloros.ocs.base.IAuthenticationListener$Default
+androidx.activity.R$attr
+com.coloros.ocs.mediaunit.BuildConfig
+androidx.core.text.util.FindAddress
+com.coloros.ocs.base.IServiceBroker$Stub$Proxy:
+    public java.lang.String getInterfaceDescriptor()
+androidx.core.view.OneShotPreDrawListener
+androidx.annotation.Size
+androidx.core.view.ActionProvider$VisibilityListener
+androidx.annotation.ContentView
+androidx.fragment.app.FragmentManagerImpl$5
+androidx.core.view.accessibility.AccessibilityViewCommand$MoveHtmlArguments
+androidx.core.provider.FontsContractCompat$4$2
+androidx.fragment.R$styleable
+androidx.lifecycle.ReportFragment$LifecycleCallbacks
+androidx.collection.SimpleArrayMap:
+    public void <init>(int)
+    public void <init>(androidx.collection.SimpleArrayMap)
+    public void putAll(androidx.collection.SimpleArrayMap)
+    private static final boolean DEBUG
+    private static final java.lang.String TAG
+    private static final boolean CONCURRENT_MODIFICATION_EXCEPTIONS
+    private static final int BASE_SIZE
+    private static final int CACHE_SIZE
+androidx.core.graphics.TypefaceCompat
+androidx.core.view.AccessibilityDelegateCompat$AccessibilityDelegateAdapter
+androidx.annotation.StringDef
+androidx.core.graphics.TypefaceCompatUtil
+androidx.viewpager.R$integer
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel$1
+androidx.versionedparcelable.ParcelUtils
+io.flutter.plugin.editing.ListenableEditingState:
+    private static final java.lang.String TAG
+androidx.core.text.util.LinkifyCompat$LinkifyMask
+androidx.core.view.accessibility.AccessibilityEventCompat
+androidx.core.accessibilityservice.AccessibilityServiceInfoCompat
+com.huawei.multimedia.audiokit.utils.Constant
+androidx.core.provider.FontsContractCompat$TypefaceResult
+androidx.core.content.res.FontResourcesParserCompat
+com.coloros.ocs.base.task.l
+androidx.core.app.ComponentActivity:
+    public void <init>()
+    public void putExtraData(androidx.core.app.ComponentActivity$ExtraData)
+    protected void onCreate(android.os.Bundle)
+    protected void onSaveInstanceState(android.os.Bundle)
+    public androidx.core.app.ComponentActivity$ExtraData getExtraData(java.lang.Class)
+    public androidx.lifecycle.Lifecycle getLifecycle()
+    public boolean superDispatchKeyEvent(android.view.KeyEvent)
+    public boolean dispatchKeyShortcutEvent(android.view.KeyEvent)
+    public boolean dispatchKeyEvent(android.view.KeyEvent)
+    private androidx.collection.SimpleArrayMap mExtraDataMap
+    private androidx.lifecycle.LifecycleRegistry mLifecycleRegistry
+androidx.fragment.app.FragmentActivity$HostCallbacks
+androidx.core.view.ScrollingView
+androidx.core.hardware.display.DisplayManagerCompat
+androidx.core.widget.NestedScrollView$SavedState$1
+org.intellij.lang.annotations.Flow
+androidx.core.app.FrameMetricsAggregator$MetricType
+androidx.core.widget.TextViewCompat
+com.example.musicbackground.R$color
+androidx.lifecycle.MediatorLiveData$Source
+androidx.activity.OnBackPressedCallback:
+    public void <init>(boolean)
+    public final void setEnabled(boolean)
+    public final boolean isEnabled()
+    public final void remove()
+    public abstract void handleOnBackPressed()
+    void addCancellable(androidx.activity.Cancellable)
+    private boolean mEnabled
+    private java.util.concurrent.CopyOnWriteArrayList mCancellables
+io.flutter.plugin.platform.SingleViewPresentation$WindowManagerHandler:
+    private static final java.lang.String TAG
+androidx.core.graphics.PathParser
+androidx.core.graphics.TypefaceCompatBaseImpl$2
+androidx.savedstate.Recreator:
+    void <init>(androidx.savedstate.SavedStateRegistryOwner)
+    static final java.lang.String CLASSES_KEY
+    static final java.lang.String COMPONENT_KEY
+io.flutter.embedding.engine.loader.FlutterLoader$2$1
+androidx.core.view.accessibility.AccessibilityManagerCompat
+androidx.core.view.GestureDetectorCompat$GestureDetectorCompatImplJellybeanMr2
+io.flutter.embedding.engine.loader.ApplicationInfoLoader:
+    public void <init>()
+    public static final java.lang.String NETWORK_POLICY_METADATA_KEY
+androidx.core.content.PermissionChecker
+androidx.core.provider.SelfDestructiveThread$ReplyCallback
+io.flutter.embedding.android.FlutterSurfaceView:
+    public void <init>(android.content.Context)
+    public void <init>(android.content.Context,android.util.AttributeSet)
+    private static final java.lang.String TAG
+androidx.customview.R$color
+androidx.fragment.app.FragmentTabHost$TabInfo
+androidx.core.app.NotificationCompatSideChannelService
+androidx.core.view.DragStartHelper$OnDragStartListener
+androidx.core.view.NestedScrollingChild
+androidx.activity.ComponentActivity$1
+androidx.core.view.ViewCompat$AccessibilityPaneVisibilityManager
+androidx.loader.content.ModernAsyncTask$InternalHandler
+androidx.core.view.animation.PathInterpolatorCompat
+androidx.lifecycle.CompositeGeneratedAdaptersObserver:
+    void <init>(androidx.lifecycle.GeneratedAdapter[])
+androidx.core.hardware.fingerprint.FingerprintManagerCompat$AuthenticationCallback
+androidx.core.view.accessibility.AccessibilityViewCommand$MoveWindowArguments
+androidx.core.app.ActivityCompat$SharedElementCallback21Impl
+androidx.lifecycle.Lifecycle:
+    public abstract void addObserver(androidx.lifecycle.LifecycleObserver)
+androidx.savedstate.SavedStateRegistryController
+io.flutter.embedding.engine.plugins.service.ServiceAware$OnModeChangeListener
+androidx.versionedparcelable.VersionedParcelParcel:
+    public void writeByteArray(byte[],int,int)
+    public void writeLong(long)
+    public void writeFloat(float)
+    public void writeDouble(double)
+    public void writeStrongBinder(android.os.IBinder)
+    public void writeStrongInterface(android.os.IInterface)
+    public void writeBundle(android.os.Bundle)
+    public long readLong()
+    public float readFloat()
+    public double readDouble()
+    public android.os.IBinder readStrongBinder()
+    public android.os.Bundle readBundle()
+    private static final boolean DEBUG
+    private static final java.lang.String TAG
+androidx.customview.widget.ViewDragHelper$2
+androidx.core.widget.PopupMenuCompat
+androidx.lifecycle.R
+io.flutter.embedding.android.AndroidKeyProcessor:
+    private static final java.lang.String TAG
+androidx.core.app.RemoteInput$Builder
+androidx.fragment.app.DialogFragment$1
+androidx.collection.ArrayMap:
+    public void <init>(int)
+    public void <init>(androidx.collection.SimpleArrayMap)
+    public boolean containsAll(java.util.Collection)
+    public boolean removeAll(java.util.Collection)
+    public boolean retainAll(java.util.Collection)
+io.flutter.embedding.android.FlutterFragment
+androidx.fragment.app.FragmentTransition$3
+io.flutter.embedding.engine.plugins.PluginRegistry:
+    public abstract void add(java.util.Set)
+    public abstract boolean has(java.lang.Class)
+    public abstract io.flutter.embedding.engine.plugins.FlutterPlugin get(java.lang.Class)
+    public abstract void remove(java.lang.Class)
+    public abstract void remove(java.util.Set)
+    public abstract void removeAll()
+androidx.savedstate.SavedStateRegistry$SavedStateProvider
+androidx.loader.app.LoaderManager$LoaderCallbacks
+androidx.core.content.IntentCompat
+androidx.annotation.InspectableProperty$EnumEntry
+com.example.musicbackground.R$styleable
+androidx.fragment.app.FragmentController
+androidx.fragment.R$style
+androidx.core.database.CursorWindowCompat
+androidx.fragment.app.FragmentStatePagerAdapter
+androidx.annotation.InspectableProperty$FlagEntry
+io.flutter.embedding.android.FlutterActivity$NewEngineIntentBuilder
+com.coloros.ocs.base.common.ConnectionResult:
+    public int getErrorCode()
+    public java.lang.String getErrorMessage()
+    protected android.app.PendingIntent getResolution()
+    protected boolean hasResolution()
+    protected void startResolutionForResult(android.app.Activity,int)
+androidx.fragment.app.FragmentManagerState
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$RangeInfoCompat
+androidx.core.widget.TextViewCompat$OreoCallback
+androidx.core.util.PatternsCompat
+androidx.core.net.DatagramSocketWrapper
+androidx.core.view.inputmethod.InputConnectionCompat
+androidx.core.app.NotificationCompat$Style
+androidx.fragment.app.BackStackState$1
+androidx.viewpager.widget.ViewPager$LayoutParams
+androidx.core.content.pm.ShortcutInfoCompatSaver
+io.flutter.embedding.engine.deferredcomponents.PlayStoreDeferredComponentManager$1
+androidx.fragment.app.FragmentTransitionCompat21
+com.baseflow.permissionhandler.R$dimen
+androidx.core.R$layout
+androidx.lifecycle.Transformations$2
+androidx.lifecycle.ReflectiveGenericLifecycleObserver:
+    void <init>(java.lang.Object)
+androidx.core.app.ShareCompat$IntentReader
+androidx.annotation.MainThread
+com.coloros.ocs.base.internal.safeparcel.a$a
+io.flutter.app.FlutterActivity
+androidx.core.app.BundleCompat$BundleCompatBaseImpl
+androidx.core.os.EnvironmentCompat
+com.coloros.ocs.base.task.p
+io.flutter.embedding.engine.systemchannels.NavigationChannel:
+    public void setMethodCallHandler(io.flutter.plugin.common.MethodChannel$MethodCallHandler)
+    private static final java.lang.String TAG
+io.flutter.embedding.android.FlutterView:
+    public void <init>(android.content.Context)
+    public void <init>(android.content.Context,io.flutter.embedding.android.FlutterView$RenderMode)
+    public void <init>(android.content.Context,io.flutter.embedding.android.FlutterView$TransparencyMode)
+    public void <init>(android.content.Context,io.flutter.embedding.android.FlutterImageView)
+    public void <init>(android.content.Context,android.util.AttributeSet)
+    public void <init>(android.content.Context,io.flutter.embedding.android.FlutterView$RenderMode,io.flutter.embedding.android.FlutterView$TransparencyMode)
+    private void <init>(android.content.Context,android.util.AttributeSet,io.flutter.embedding.android.FlutterImageView)
+    private static final java.lang.String TAG
+androidx.core.widget.TintableCompoundDrawablesView
+androidx.core.text.BidiFormatter$Builder
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView:
+    public void <init>(android.content.Context)
+androidx.viewpager.widget.ViewPager$SavedState$1
+com.example.musicbackground.R$integer
+io.flutter.embedding.android.FlutterFragmentActivity$CachedEngineIntentBuilder
+io.flutter.plugin.common.BasicMessageChannel:
+    static void resizeChannelBuffer(io.flutter.plugin.common.BinaryMessenger,java.lang.String,int)
+    public void resizeChannelBuffer(int)
+    private static final java.lang.String TAG
+    public static final java.lang.String CHANNEL_BUFFERS_CHANNEL
+androidx.core.telephony.mbms.MbmsHelper
+androidx.fragment.app.FragmentManagerImpl$FragmentLifecycleCallbacksHolder
+androidx.lifecycle.LiveData$ObserverWrapper:
+    void <init>(androidx.lifecycle.LiveData,androidx.lifecycle.Observer)
+    abstract boolean shouldBeActive()
+    boolean isAttachedTo(androidx.lifecycle.LifecycleOwner)
+    void detachObserver()
+    int mLastVersion
+com.huawei.multimedia.audiokit.utils.LogUtils:
+    private void <init>()
+    public static void warn(java.lang.String,java.lang.String)
+    public static void debug(java.lang.String,java.lang.String)
+    public static varargs void debug(java.lang.String,java.lang.String,java.lang.Object[])
+    public static void verbose(java.lang.String,java.lang.String)
+    public static final int LOG_LEVEL
+    public static final int ERROR
+    public static final int WARN
+    public static final int INFO
+    public static final int DEBUG
+    public static final int VERBOSE
+    private static final java.lang.String ERROR_MESSAGE
+androidx.core.view.inputmethod.InputContentInfoCompat$InputContentInfoCompatApi25Impl
+androidx.loader.content.ModernAsyncTask$4
+com.baseflow.permissionhandler.R$style
+androidx.annotation.NonNull
+androidx.viewpager.widget.ViewPager$PageTransformer
+androidx.core.R$string
+androidx.core.view.accessibility.AccessibilityManagerCompat$TouchExplorationStateChangeListener
+androidx.arch.core.executor.DefaultTaskExecutor$1
+androidx.core.util.Pools$SimplePool
+androidx.core.text.TextDirectionHeuristicsCompat$TextDirectionHeuristicImpl
+androidx.core.text.util.LinkifyCompat
+com.example.musicbackground.R$id
+androidx.lifecycle.livedata.core.R
+androidx.savedstate.Recreator$SavedStateProvider
+androidx.collection.SparseArrayCompat
+com.coloros.ocs.base.common.api.Api$AnyClient
+androidx.core.view.accessibility.AccessibilityViewCommand$SetProgressArguments
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$AccessibilityActionCompat
+androidx.fragment.app.FragmentManager$FragmentLifecycleCallbacks
+androidx.core.content.pm.PermissionInfoCompat$Protection
+androidx.lifecycle.ComputableLiveData$2
+org.intellij.lang.annotations.JdkConstants$AdjustableOrientation
+androidx.core.util.DebugUtils
+androidx.core.app.NotificationCompat
+io.flutter.embedding.engine.systemchannels.KeyEventChannel:
+    private static final java.lang.String TAG
+androidx.core.util.Pools$Pool
+androidx.annotation.RequiresPermission
+io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding:
+    public io.flutter.embedding.engine.FlutterEngine getFlutterEngine()
+    public io.flutter.view.TextureRegistry getTextureRegistry()
+androidx.fragment.app.Fragment:
+    public void <init>()
+    public void <init>(int)
+    private void initLifecycle()
+    public static androidx.fragment.app.Fragment instantiate(android.content.Context,java.lang.String)
+    public static androidx.fragment.app.Fragment instantiate(android.content.Context,java.lang.String,android.os.Bundle)
+    private androidx.fragment.app.Fragment$AnimationInfo ensureAnimationInfo()
+    static void <clinit>()
+    public androidx.lifecycle.Lifecycle getLifecycle()
+    public androidx.lifecycle.LifecycleOwner getViewLifecycleOwner()
+    public androidx.lifecycle.LiveData getViewLifecycleOwnerLiveData()
+    public androidx.lifecycle.ViewModelStore getViewModelStore()
+    public final androidx.savedstate.SavedStateRegistry getSavedStateRegistry()
+    final void restoreViewState(android.os.Bundle)
+    final boolean isInBackStack()
+    public final boolean equals(java.lang.Object)
+    public final int hashCode()
+    public java.lang.String toString()
+    public final int getId()
+    public final java.lang.String getTag()
+    public void setArguments(android.os.Bundle)
+    public final android.os.Bundle getArguments()
+    public final android.os.Bundle requireArguments()
+    public final boolean isStateSaved()
+    public void setInitialSavedState(androidx.fragment.app.Fragment$SavedState)
+    public void setTargetFragment(androidx.fragment.app.Fragment,int)
+    public final androidx.fragment.app.Fragment getTargetFragment()
+    public final int getTargetRequestCode()
+    public android.content.Context getContext()
+    public final android.content.Context requireContext()
+    public final androidx.fragment.app.FragmentActivity getActivity()
+    public final androidx.fragment.app.FragmentActivity requireActivity()
+    public final java.lang.Object getHost()
+    public final java.lang.Object requireHost()
+    public final android.content.res.Resources getResources()
+    public final java.lang.CharSequence getText(int)
+    public final java.lang.String getString(int)
+    public final varargs java.lang.String getString(int,java.lang.Object[])
+    public final androidx.fragment.app.FragmentManager getFragmentManager()
+    public final androidx.fragment.app.FragmentManager requireFragmentManager()
+    public final androidx.fragment.app.FragmentManager getChildFragmentManager()
+    public final androidx.fragment.app.Fragment getParentFragment()
+    public final androidx.fragment.app.Fragment requireParentFragment()
+    public final boolean isAdded()
+    public final boolean isDetached()
+    public final boolean isRemoving()
+    public final boolean isInLayout()
+    public final boolean isResumed()
+    public final boolean isVisible()
+    public final boolean isHidden()
+    public final boolean hasOptionsMenu()
+    public final boolean isMenuVisible()
+    public void onHiddenChanged(boolean)
+    public void setRetainInstance(boolean)
+    public final boolean getRetainInstance()
+    public void setHasOptionsMenu(boolean)
+    public void setMenuVisibility(boolean)
+    public void setUserVisibleHint(boolean)
+    public boolean getUserVisibleHint()
+    public androidx.loader.app.LoaderManager getLoaderManager()
+    public void startActivity(android.content.Intent)
+    public void startActivity(android.content.Intent,android.os.Bundle)
+    public void startActivityForResult(android.content.Intent,int)
+    public void startActivityForResult(android.content.Intent,int,android.os.Bundle)
+    public void startIntentSenderForResult(android.content.IntentSender,int,android.content.Intent,int,int,int,android.os.Bundle)
+    public void onActivityResult(int,int,android.content.Intent)
+    public final void requestPermissions(java.lang.String[],int)
+    public void onRequestPermissionsResult(int,java.lang.String[],int[])
+    public boolean shouldShowRequestPermissionRationale(java.lang.String)
+    public android.view.LayoutInflater onGetLayoutInflater(android.os.Bundle)
+    public final android.view.LayoutInflater getLayoutInflater()
+    android.view.LayoutInflater performGetLayoutInflater(android.os.Bundle)
+    public android.view.LayoutInflater getLayoutInflater(android.os.Bundle)
+    public void onInflate(android.content.Context,android.util.AttributeSet,android.os.Bundle)
+    public void onInflate(android.app.Activity,android.util.AttributeSet,android.os.Bundle)
+    public void onAttachFragment(androidx.fragment.app.Fragment)
+    public void onAttach(android.content.Context)
+    public void onAttach(android.app.Activity)
+    public android.view.animation.Animation onCreateAnimation(int,boolean,int)
+    public android.animation.Animator onCreateAnimator(int,boolean,int)
+    public void onCreate(android.os.Bundle)
+    void restoreChildFragmentState(android.os.Bundle)
+    public android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)
+    public void onViewCreated(android.view.View,android.os.Bundle)
+    public android.view.View getView()
+    public final android.view.View requireView()
+    public void onActivityCreated(android.os.Bundle)
+    public void onViewStateRestored(android.os.Bundle)
+    public void onStart()
+    public void onResume()
+    public void onSaveInstanceState(android.os.Bundle)
+    public void onMultiWindowModeChanged(boolean)
+    public void onPictureInPictureModeChanged(boolean)
+    public void onConfigurationChanged(android.content.res.Configuration)
+    public void onPrimaryNavigationFragmentChanged(boolean)
+    public void onPause()
+    public void onStop()
+    public void onLowMemory()
+    public void onDestroyView()
+    public void onDestroy()
+    void initState()
+    public void onDetach()
+    public void onCreateOptionsMenu(android.view.Menu,android.view.MenuInflater)
+    public void onPrepareOptionsMenu(android.view.Menu)
+    public void onDestroyOptionsMenu()
+    public boolean onOptionsItemSelected(android.view.MenuItem)
+    public void onOptionsMenuClosed(android.view.Menu)
+    public void onCreateContextMenu(android.view.ContextMenu,android.view.View,android.view.ContextMenu$ContextMenuInfo)
+    public void registerForContextMenu(android.view.View)
+    public void unregisterForContextMenu(android.view.View)
+    public boolean onContextItemSelected(android.view.MenuItem)
+    public void setEnterSharedElementCallback(androidx.core.app.SharedElementCallback)
+    public void setExitSharedElementCallback(androidx.core.app.SharedElementCallback)
+    public void setEnterTransition(java.lang.Object)
+    public java.lang.Object getEnterTransition()
+    public void setReturnTransition(java.lang.Object)
+    public java.lang.Object getReturnTransition()
+    public void setExitTransition(java.lang.Object)
+    public java.lang.Object getExitTransition()
+    public void setReenterTransition(java.lang.Object)
+    public java.lang.Object getReenterTransition()
+    public void setSharedElementEnterTransition(java.lang.Object)
+    public java.lang.Object getSharedElementEnterTransition()
+    public void setSharedElementReturnTransition(java.lang.Object)
+    public java.lang.Object getSharedElementReturnTransition()
+    public void setAllowEnterTransitionOverlap(boolean)
+    public boolean getAllowEnterTransitionOverlap()
+    public void setAllowReturnTransitionOverlap(boolean)
+    public boolean getAllowReturnTransitionOverlap()
+    public void postponeEnterTransition()
+    public final void postponeEnterTransition(long,java.util.concurrent.TimeUnit)
+    public void startPostponedEnterTransition()
+    void callStartTransitionListener()
+    public void dump(java.lang.String,java.io.FileDescriptor,java.io.PrintWriter,java.lang.String[])
+    androidx.fragment.app.Fragment findFragmentByWho(java.lang.String)
+    void performAttach()
+    void performCreate(android.os.Bundle)
+    void performCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)
+    void performActivityCreated(android.os.Bundle)
+    void performStart()
+    void performResume()
+    void noteStateNotSaved()
+    void performPrimaryNavigationFragmentChanged()
+    void performMultiWindowModeChanged(boolean)
+    void performPictureInPictureModeChanged(boolean)
+    void performConfigurationChanged(android.content.res.Configuration)
+    void performLowMemory()
+    boolean performCreateOptionsMenu(android.view.Menu,android.view.MenuInflater)
+    boolean performPrepareOptionsMenu(android.view.Menu)
+    boolean performOptionsItemSelected(android.view.MenuItem)
+    boolean performContextItemSelected(android.view.MenuItem)
+    void performOptionsMenuClosed(android.view.Menu)
+    void performSaveInstanceState(android.os.Bundle)
+    void performPause()
+    void performStop()
+    void performDestroyView()
+    void performDestroy()
+    void performDetach()
+    void setOnStartEnterTransitionListener(androidx.fragment.app.Fragment$OnStartEnterTransitionListener)
+    int getNextAnim()
+    void setNextAnim(int)
+    int getNextTransition()
+    void setNextTransition(int,int)
+    int getNextTransitionStyle()
+    androidx.core.app.SharedElementCallback getEnterTransitionCallback()
+    androidx.core.app.SharedElementCallback getExitTransitionCallback()
+    android.view.View getAnimatingAway()
+    void setAnimatingAway(android.view.View)
+    void setAnimator(android.animation.Animator)
+    android.animation.Animator getAnimator()
+    int getStateAfterAnimating()
+    void setStateAfterAnimating(int)
+    boolean isPostponed()
+    boolean isHideReplaced()
+    void setHideReplaced(boolean)
+    int mState
+    android.os.Bundle mSavedFragmentState
+    android.util.SparseArray mSavedViewState
+    java.lang.Boolean mSavedUserVisibleHint
+    java.lang.String mWho
+    android.os.Bundle mArguments
+    androidx.fragment.app.Fragment mTarget
+    java.lang.String mTargetWho
+    int mTargetRequestCode
+    private java.lang.Boolean mIsPrimaryNavigationFragment
+    boolean mAdded
+    boolean mRemoving
+    boolean mFromLayout
+    boolean mInLayout
+    boolean mRestored
+    boolean mPerformedCreateView
+    int mBackStackNesting
+    androidx.fragment.app.FragmentManagerImpl mFragmentManager
+    androidx.fragment.app.FragmentHostCallback mHost
+    androidx.fragment.app.FragmentManagerImpl mChildFragmentManager
+    androidx.fragment.app.Fragment mParentFragment
+    int mFragmentId
+    int mContainerId
+    java.lang.String mTag
+    boolean mHidden
+    boolean mDetached
+    boolean mRetainInstance
+    boolean mRetainInstanceChangedWhileDetached
+    boolean mHasMenu
+    boolean mMenuVisible
+    private boolean mCalled
+    android.view.ViewGroup mContainer
+    android.view.View mInnerView
+    boolean mDeferStart
+    boolean mUserVisibleHint
+    androidx.fragment.app.Fragment$AnimationInfo mAnimationInfo
+    java.lang.Runnable mPostponedDurationRunnable
+    boolean mIsNewlyAdded
+    boolean mHiddenChanged
+    float mPostponedAlpha
+    android.view.LayoutInflater mLayoutInflater
+    boolean mIsCreated
+    androidx.lifecycle.Lifecycle$State mMaxState
+    androidx.lifecycle.LifecycleRegistry mLifecycleRegistry
+    androidx.fragment.app.FragmentViewLifecycleOwner mViewLifecycleOwner
+    androidx.lifecycle.MutableLiveData mViewLifecycleOwnerLiveData
+    androidx.savedstate.SavedStateRegistryController mSavedStateRegistryController
+    private int mContentLayoutId
+    static final java.lang.Object USE_DEFAULT_TRANSITION
+    static final int INITIALIZING
+    static final int CREATED
+    static final int ACTIVITY_CREATED
+    static final int STARTED
+    static final int RESUMED
+androidx.core.widget.NestedScrollView
+io.flutter.embedding.android.FlutterActivityLaunchConfigs
+androidx.collection.LongSparseArray
+androidx.core.graphics.drawable.WrappedDrawableState
+androidx.core.view.NestedScrollingChild2
+io.flutter.embedding.engine.plugins.shim.ShimRegistrar
+androidx.annotation.InterpolatorRes
+androidx.core.app.RemoteInput
+androidx.core.view.ActionProvider$SubUiVisibilityListener
+androidx.core.app.NotificationCompatBuilder
+androidx.collection.LruCache
+androidx.annotation.RestrictTo
+androidx.customview.R$attr
+androidx.lifecycle.FullLifecycleObserverAdapter:
+    void <init>(androidx.lifecycle.FullLifecycleObserver,androidx.lifecycle.LifecycleEventObserver)
+com.coloros.ocs.base.common.api.Api$SimpleClient
+androidx.core.content.ContentResolverCompat
+androidx.lifecycle.viewmodel.R
+com.coloros.ocs.base.common.api.TaskListenerHolder:
+    public com.coloros.ocs.base.common.api.TaskListenerHolder$SuccessNotifier getOnTaskSuccessListener()
+    public android.os.Looper getLooper()
+androidx.lifecycle.ReportFragment
+androidx.loader.content.Loader$ForceLoadContentObserver
+android.support.v4.os.IResultReceiver$Stub$Proxy
+androidx.activity.R$drawable
+io.flutter.plugin.common.EventChannel:
+    private static final java.lang.String TAG
+com.coloros.ocs.base.task.c
+com.huawei.multimedia.audioengine.IHwAudioEngine$Stub$Proxy:
+    public java.lang.String getInterfaceDescriptor()
+    public java.util.List getSupportedFeatures()
+    public boolean isFeatureSupported(int)
+androidx.core.content.res.FontResourcesParserCompat$FontFileResourceEntry
+androidx.core.internal.view.SupportSubMenu
+androidx.core.view.NestedScrollingParent3
+io.flutter.embedding.engine.dart.DartExecutor$DartCallback
+androidx.core.provider.SelfDestructiveThread$1
+androidx.core.graphics.PathParser$PathDataNode
+androidx.core.view.ViewCompat$OnUnhandledKeyEventListenerCompat
+io.flutter.embedding.engine.FlutterEngineCache:
+    public boolean contains(java.lang.String)
+androidx.core.view.ViewParentCompat
+androidx.activity.R$styleable
+androidx.customview.R
+androidx.core.app.NotificationCompat$Action$SemanticAction
+androidx.core.widget.PopupWindowCompat
+androidx.fragment.app.FragmentTransitionImpl$1
+androidx.annotation.RawRes
+io.flutter.app.FlutterActivityDelegate
+androidx.core.content.pm.PermissionInfoCompat
+androidx.fragment.R$dimen
+androidx.annotation.VisibleForTesting
+androidx.core.view.ViewCompat$ScrollIndicators
+io.flutter.embedding.android.SplashScreenProvider
+androidx.core.view.NestedScrollingParentHelper
+androidx.core.util.Consumer
+androidx.lifecycle.Lifecycling
+androidx.core.view.accessibility.AccessibilityWindowInfoCompat
+androidx.core.location.LocationManagerCompat
+androidx.core.view.inputmethod.InputContentInfoCompat
+io.flutter.embedding.android.FlutterActivity$CachedEngineIntentBuilder
+androidx.core.app.NotificationCompat$BigPictureStyle
+androidx.core.content.pm.ShortcutInfoCompatSaver$NoopImpl
+androidx.core.provider.FontsContractCompat$4$6
+androidx.activity.R$color
+io.flutter.plugin.common.FlutterException:
+    private static final java.lang.String TAG
+androidx.activity.R
+androidx.lifecycle.ViewModel
+androidx.annotation.RequiresApi
+androidx.core.app.NotificationCompat$BigTextStyle
+androidx.core.app.ActivityCompat$PermissionCompatDelegate:
+    public abstract boolean onActivityResult(android.app.Activity,int,int,android.content.Intent)
+androidx.core.view.inputmethod.InputContentInfoCompat$InputContentInfoCompatBaseImpl
+androidx.annotation.AnyThread
+androidx.core.content.FileProvider$PathStrategy
+androidx.core.app.NotificationCompat$DecoratedCustomViewStyle
+androidx.core.widget.ImageViewCompat
+androidx.viewpager.R$color
+androidx.annotation.RestrictTo$Scope
+androidx.core.widget.ContentLoadingProgressBar
+androidx.core.view.ViewCompat$2
+io.flutter.plugin.common.EventChannel$IncomingStreamRequestHandler$EventSinkImplementation:
+    public void error(java.lang.String,java.lang.String,java.lang.Object)
+    public void endOfStream()
+androidx.core.app.NotificationCompatJellybean
+io.flutter.embedding.engine.deferredcomponents.PlayStoreDeferredComponentManager$FeatureInstallStateUpdatedListener
+androidx.loader.content.ModernAsyncTask$AsyncTaskResult
+io.flutter.embedding.android.FlutterFragment$ActivityCallThrough
+com.coloros.ocs.base.common.AuthResult:
+    public int getUid()
+    public void setUid(int)
+    public int getPid()
+    public void setPid(int)
+    public byte[] getPermitBits()
+    public void setPermitBits(byte[])
+    public java.lang.String getPackageName()
+    public void setPackageName(java.lang.String)
+    public void setErrrorCode(int)
+io.flutter.embedding.engine.systemchannels.SystemChannel:
+    private static final java.lang.String TAG
+androidx.lifecycle.Lifecycling$1:
+    void <init>(androidx.lifecycle.LifecycleEventObserver)
+androidx.fragment.app.FragmentViewLifecycleOwner
+androidx.fragment.R$color
+com.coloros.ocs.base.task.TaskExecutors$MainExecutor
+androidx.core.content.ContextCompat$MainHandlerExecutor
+androidx.fragment.app.FragmentManagerImpl$PopBackStackState
+androidx.core.app.JobIntentService
+androidx.lifecycle.ViewModelProvider$KeyedFactory
+androidx.core.view.accessibility.AccessibilityViewCommand$SetTextArguments
+androidx.fragment.app.Fragment$2:
+    void <init>(androidx.fragment.app.Fragment)
+androidx.fragment.app.FragmentTransaction$Op
+androidx.core.view.ViewConfigurationCompat
+androidx.core.os.HandlerCompat
+androidx.annotation.DimenRes
+androidx.fragment.R$layout
+androidx.core.app.NotificationCompat$MessagingStyle
+androidx.loader.R$drawable
+org.intellij.lang.annotations.JdkConstants$FlowLayoutAlignment
+androidx.loader.R$id
+androidx.viewpager.widget.ViewPager$2
+androidx.fragment.R$attr
+io.flutter.view.FlutterView
+com.coloros.ocs.base.task.g
+androidx.customview.widget.ViewDragHelper
+androidx.core.view.accessibility.AccessibilityClickableSpanCompat
+io.flutter.embedding.engine.plugins.contentprovider.ContentProviderPluginBinding:
+    public abstract android.content.ContentProvider getContentProvider()
+androidx.core.provider.FontsContractCompat$2
+androidx.fragment.app.Fragment$AnimationInfo
+io.flutter.plugin.common.EventChannel$EventSink:
+    public abstract void error(java.lang.String,java.lang.String,java.lang.Object)
+    public abstract void endOfStream()
+androidx.customview.R$style
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutator:
+    public void <init>(io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack,android.graphics.Path)
+    public io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType getType()
+    public android.graphics.Rect getRect()
+    public android.graphics.Path getPath()
+    private android.graphics.Path path
+io.flutter.embedding.android.FlutterImageView:
+    public void <init>(android.content.Context)
+    public void <init>(android.content.Context,android.util.AttributeSet)
+androidx.annotation.RequiresPermission$Read
+androidx.versionedparcelable.CustomVersionedParcelable:
+    public void onPreParceling(boolean)
+    public void onPostParceling()
+androidx.activity.OnBackPressedDispatcher$OnBackPressedCancellable
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView:
+    public void <init>(android.content.Context,android.util.AttributeSet)
+androidx.collection.ContainerHelpers:
+    public static int idealIntArraySize(int)
+    public static int idealLongArraySize(int)
+    public static int idealByteArraySize(int)
+    static int binarySearch(long[],int,long)
+    private void <init>()
+io.flutter.embedding.engine.systemchannels.SettingsChannel:
+    private static final java.lang.String TAG
+    public static final java.lang.String CHANNEL_NAME
+    private static final java.lang.String TEXT_SCALE_FACTOR
+    private static final java.lang.String ALWAYS_USE_24_HOUR_FORMAT
+    private static final java.lang.String PLATFORM_BRIGHTNESS
+androidx.core.hardware.fingerprint.FingerprintManagerCompat$CryptoObject
+androidx.core.R$styleable
+androidx.core.view.ViewCompat$ScrollAxis
+androidx.annotation.HalfFloat
+androidx.viewpager.widget.PagerTabStrip
+io.flutter.embedding.android.FlutterView$TransparencyMode
+androidx.core.view.ScaleGestureDetectorCompat
+androidx.core.view.ViewGroupCompat
+androidx.core.app.NotificationCompat$CarExtender
+com.coloros.ocs.base.task.i
+androidx.lifecycle.GenericLifecycleObserver
+androidx.annotation.LayoutRes
+android.support.v4.app.INotificationSideChannel
+androidx.core.graphics.PathParser$ExtractFloatResult
+io.flutter.plugin.editing.FlutterTextUtils:
+    public static final int LINE_FEED
+    public static final int CARRIAGE_RETURN
+    public static final int COMBINING_ENCLOSING_KEYCAP
+    public static final int CANCEL_TAG
+    public static final int ZERO_WIDTH_JOINER
+androidx.core.provider.FontsContractCompat$4$3
+androidx.core.app.RemoteActionCompat:
+    public void <init>(androidx.core.graphics.drawable.IconCompat,java.lang.CharSequence,java.lang.CharSequence,android.app.PendingIntent)
+    public void <init>(androidx.core.app.RemoteActionCompat)
+    public static androidx.core.app.RemoteActionCompat createFromRemoteAction(android.app.RemoteAction)
+    public void setEnabled(boolean)
+    public boolean isEnabled()
+    public void setShouldShowIcon(boolean)
+    public boolean shouldShowIcon()
+    public androidx.core.graphics.drawable.IconCompat getIcon()
+    public java.lang.CharSequence getTitle()
+    public java.lang.CharSequence getContentDescription()
+    public android.app.PendingIntent getActionIntent()
+    public android.app.RemoteAction toRemoteAction()
+androidx.core.graphics.BitmapCompat
+androidx.collection.CircularArray
+com.coloros.ocs.base.a.a
+androidx.core.provider.SelfDestructiveThread
+io.flutter.embedding.engine.deferredcomponents.PlayStoreDeferredComponentManager
+io.flutter.embedding.engine.plugins.service.ServicePluginBinding:
+    public abstract android.app.Service getService()
+    public abstract java.lang.Object getLifecycle()
+    public abstract void addOnModeChangeListener(io.flutter.embedding.engine.plugins.service.ServiceAware$OnModeChangeListener)
+    public abstract void removeOnModeChangeListener(io.flutter.embedding.engine.plugins.service.ServiceAware$OnModeChangeListener)
+androidx.loader.R$color
+androidx.fragment.R$string
+com.coloros.ocs.base.task.m
+com.coloros.ocs.base.common.api.ConnectionClient$a
+androidx.annotation.UiThread
+androidx.customview.view.AbsSavedState$2
+io.flutter.embedding.android.FlutterFragment$CachedEngineFragmentBuilder
+androidx.savedstate.R
+androidx.annotation.GuardedBy
+androidx.fragment.app.FragmentState$1
+androidx.core.R$integer
+com.baseflow.permissionhandler.PermissionConstants$PermissionGroup
+androidx.core.content.res.FontResourcesParserCompat$FamilyResourceEntry
+io.flutter.app.FlutterPlayStoreSplitApplication
+io.flutter.embedding.engine.plugins.service.ServiceControlSurface
+androidx.core.widget.ListViewAutoScrollHelper
+androidx.viewpager.widget.ViewPager$OnAdapterChangeListener
+androidx.arch.core.executor.ArchTaskExecutor$2
+io.flutter.embedding.engine.loader.FlutterLoader$Settings:
+    public void setLogTag(java.lang.String)
+androidx.core.util.Pools$SynchronizedPool
+androidx.arch.core.executor.ArchTaskExecutor
+androidx.activity.ComponentActivity$NonConfigurationInstances
+androidx.annotation.InspectableProperty
+androidx.core.app.ShareCompat
+androidx.core.content.SharedPreferencesCompat$EditorCompat
+org.intellij.lang.annotations.Pattern
+androidx.customview.widget.ViewDragHelper$1
+com.baseflow.permissionhandler.R$drawable
+androidx.lifecycle.MethodCallsLogger:
+    public boolean approveCall(java.lang.String,int)
+androidx.core.app.ActivityRecreator$LifecycleCheckCallbacks
+androidx.fragment.app.FragmentManagerImpl$6
+io.flutter.embedding.engine.systemchannels.DeferredComponentChannel:
+    public void completeInstallSuccess(java.lang.String)
+    public void completeInstallError(java.lang.String,java.lang.String)
+    private static final java.lang.String TAG
+androidx.core.os.LocaleListInterface
+androidx.core.widget.ContentLoadingProgressBar$2
+androidx.annotation.TransitionRes
+androidx.fragment.app.FragmentTransition$2
+com.coloros.ocs.mediaunit.MediaUnit:
+    public void <init>()
+androidx.core.app.ComponentActivity$ExtraData
+com.example.musicbackground.R$style
+androidx.annotation.BinderThread
+io.flutter.embedding.engine.plugins.contentprovider.ContentProviderControlSurface
+io.flutter.app.FlutterActivityDelegate$ViewFactory
+androidx.fragment.app.FragmentTabHost$SavedState
+io.flutter.embedding.android.FlutterFragment$1
+androidx.core.app.ActivityRecreator$1
+androidx.annotation.PluralsRes
+androidx.core.content.pm.ShortcutManagerCompat$1
+androidx.core.app.JobIntentService$CompatWorkItem
+androidx.core.text.TextDirectionHeuristicsCompat
+androidx.annotation.Nullable
+io.flutter.embedding.engine.loader.ResourceExtractor:
+    static long getVersionCode(android.content.pm.PackageInfo)
+    void <init>(java.lang.String,java.lang.String,android.content.pm.PackageManager,android.content.res.AssetManager)
+    private static java.lang.String[] getExistingTimestamps(java.io.File)
+    private static void deleteFiles(java.lang.String,java.util.HashSet)
+    private static java.lang.String checkTimestamp(java.io.File,android.content.pm.PackageManager,java.lang.String)
+    private static void copy(java.io.InputStream,java.io.OutputStream)
+    private static java.lang.String[] getSupportedAbis()
+    static synthetic java.lang.String access$000(java.io.File,android.content.pm.PackageManager,java.lang.String)
+    static synthetic void access$100(java.lang.String,java.util.HashSet)
+    static synthetic void access$200(java.io.InputStream,java.io.OutputStream)
+    static void <clinit>()
+    io.flutter.embedding.engine.loader.ResourceExtractor addResource(java.lang.String)
+    io.flutter.embedding.engine.loader.ResourceExtractor addResources(java.util.Collection)
+    io.flutter.embedding.engine.loader.ResourceExtractor start()
+    private final java.lang.String mDataDirPath
+    private final java.lang.String mPackageName
+    private final android.content.pm.PackageManager mPackageManager
+    private final android.content.res.AssetManager mAssetManager
+    private final java.util.HashSet mResources
+    private io.flutter.embedding.engine.loader.ResourceExtractor$ExtractTask mExtractTask
+    private static final java.lang.String TAG
+    private static final java.lang.String TIMESTAMP_PREFIX
+    private static final java.lang.String[] SUPPORTED_ABIS
+androidx.core.content.res.ResourcesCompat$FontCallback
+io.flutter.embedding.engine.plugins.shim.ShimPluginRegistry$ShimRegistrarAggregate
+com.huawei.multimedia.audioengine.IHwAudioKaraokeFeature$Stub$Proxy:
+    public java.lang.String getInterfaceDescriptor()
+org.intellij.lang.annotations.JdkConstants$TabPlacement
+androidx.fragment.app.FragmentManager$OnBackStackChangedListener
+io.flutter.embedding.engine.systemchannels.TextInputChannel:
+    private static final java.lang.String TAG
+androidx.fragment.app.DialogFragment
+androidx.core.internal.package-info
+io.flutter.embedding.android.AndroidTouchProcessor$PointerDeviceKind
+io.flutter.app.FlutterFragmentActivity
+androidx.core.widget.AutoScrollHelper$ScrollAnimationRunnable
+androidx.core.view.accessibility.AccessibilityViewCommand$CommandArguments
+androidx.annotation.AttrRes
+androidx.core.content.pm.ActivityInfoCompat
+org.intellij.lang.annotations.MagicConstant
+androidx.core.view.GestureDetectorCompat
+androidx.core.app.Person
+androidx.fragment.app.FragmentManagerImpl$EndViewTransitionAnimation
+androidx.annotation.ArrayRes
+androidx.annotation.StyleRes
+androidx.core.content.MimeTypeFilter
+com.coloros.ocs.base.a.e:
+    public static boolean a(java.lang.Object,java.lang.Object)
+androidx.core.view.DisplayCutoutCompat
+androidx.core.app.NotificationCompat$NotificationVisibility
+com.coloros.ocs.base.task.q:
+    public final void a(com.coloros.ocs.base.task.b)
+    public final void a(com.coloros.ocs.base.task.Task)
+    private java.util.Queue b
+    private boolean c
+android.support.v4.os.ResultReceiver$MyResultReceiver
+androidx.core.view.VelocityTrackerCompat
+org.intellij.lang.annotations.Subst
+androidx.core.text.PrecomputedTextCompat$PrecomputedTextFutureTask$PrecomputedTextCallback
+androidx.core.widget.TintableCompoundButton
+io.flutter.util.Preconditions:
+    private void <init>()
+    public static java.lang.Object checkNotNull(java.lang.Object)
+    public static void checkState(boolean)
+androidx.core.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListenerCompat
+com.coloros.ocs.base.internal.safeparcel.SafeParcelable
+androidx.viewpager.R$drawable
+androidx.core.R$color
+androidx.activity.ComponentActivity$2:
+    void <init>(androidx.activity.ComponentActivity)
+io.flutter.plugin.mouse.MouseCursorPlugin$2:
+    private static final long serialVersionUID
+io.flutter.embedding.engine.dart.DartExecutor:
+    public void executeDartCallback(io.flutter.embedding.engine.dart.DartExecutor$DartCallback)
+    public io.flutter.plugin.common.BinaryMessenger getBinaryMessenger()
+    public int getPendingChannelResponseCount()
+    public void setIsolateServiceIdListener(io.flutter.embedding.engine.dart.DartExecutor$IsolateServiceIdListener)
+    private static final java.lang.String TAG
+androidx.core.view.GestureDetectorCompat$GestureDetectorCompatImplBase$GestureHandler
+androidx.viewpager.widget.PagerTitleStrip
+androidx.core.hardware.fingerprint.FingerprintManagerCompat$1
+androidx.core.text.util.LinkifyCompat$LinkSpec
+androidx.core.graphics.PathUtils
+androidx.core.app.NotificationCompat$WearableExtender
+androidx.annotation.BoolRes
+androidx.lifecycle.AndroidViewModel
+io.flutter.embedding.android.FlutterFragment$NewEngineFragmentBuilder
+io.flutter.plugin.common.PluginRegistry$PluginRegistrantCallback
+androidx.loader.app.LoaderManagerImpl$LoaderViewModel
+androidx.core.app.NotificationBuilderWithBuilderAccessor
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$CollectionInfoCompat
+androidx.viewpager.widget.ViewPager$3
+io.flutter.app.FlutterActivityDelegate$1
+androidx.core.app.FrameMetricsAggregator$FrameMetricsBaseImpl
+androidx.annotation.FontRes
+androidx.core.widget.AutoScrollHelper$ClampedScroller
+com.huawei.multimedia.audioengine.IHwAudioKaraokeFeature$Stub:
+    public void <init>()
+    public android.os.IBinder asBinder()
+    public boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+    private static final java.lang.String DESCRIPTOR
+    static final int TRANSACTION_isKaraokeFeatureSupport
+    static final int TRANSACTION_enableKaraokeFeature
+    static final int TRANSACTION_getKaraokeLatency
+    static final int TRANSACTION_setParameter
+    static final int TRANSACTION_init
+com.coloros.ocs.base.internal.ClientSettings:
+    public java.lang.String getPackageName()
+    public int getVersionCode()
+    public java.util.List getList()
+androidx.core.app.AppLaunchChecker
+androidx.core.view.ActionProvider
+io.flutter.plugin.common.PluginRegistry$ViewDestroyListener
+androidx.loader.content.ModernAsyncTask$3
+org.intellij.lang.annotations.RegExp
+androidx.versionedparcelable.R
+androidx.core.app.NotificationManagerCompat:
+    public static java.util.Set getEnabledListenerPackages(android.content.Context)
+    private static boolean useSideChannelForNotification(android.app.Notification)
+    private void pushSideChannelQueue(androidx.core.app.NotificationManagerCompat$Task)
+    public void cancel(int)
+    public void cancel(java.lang.String,int)
+    public void cancelAll()
+    public void notify(int,android.app.Notification)
+    public void notify(java.lang.String,int,android.app.Notification)
+    public int getImportance()
+    public void createNotificationChannel(android.app.NotificationChannel)
+    public void createNotificationChannelGroup(android.app.NotificationChannelGroup)
+    public void createNotificationChannels(java.util.List)
+    public void createNotificationChannelGroups(java.util.List)
+    public void deleteNotificationChannel(java.lang.String)
+    public void deleteNotificationChannelGroup(java.lang.String)
+    public android.app.NotificationChannel getNotificationChannel(java.lang.String)
+    public android.app.NotificationChannelGroup getNotificationChannelGroup(java.lang.String)
+    public java.util.List getNotificationChannels()
+    public java.util.List getNotificationChannelGroups()
+    private static final java.lang.String TAG
+    private static final java.lang.String CHECK_OP_NO_THROW
+    private static final java.lang.String OP_POST_NOTIFICATION
+    public static final java.lang.String EXTRA_USE_SIDE_CHANNEL
+    public static final java.lang.String ACTION_BIND_SIDE_CHANNEL
+    static final int MAX_SIDE_CHANNEL_SDK_VERSION
+    private static final int SIDE_CHANNEL_RETRY_BASE_INTERVAL_MS
+    private static final int SIDE_CHANNEL_RETRY_MAX_COUNT
+    private static final java.lang.String SETTING_ENABLED_NOTIFICATION_LISTENERS
+    private static java.lang.String sEnabledNotificationListeners
+    private static androidx.core.app.NotificationManagerCompat$SideChannelManager sSideChannelManager
+    public static final int IMPORTANCE_UNSPECIFIED
+    public static final int IMPORTANCE_NONE
+    public static final int IMPORTANCE_MIN
+    public static final int IMPORTANCE_LOW
+    public static final int IMPORTANCE_DEFAULT
+    public static final int IMPORTANCE_HIGH
+    public static final int IMPORTANCE_MAX
+androidx.lifecycle.ClassesInfoCache$CallbackInfo:
+    void <init>(java.util.Map)
+    private static void invokeMethodsForEvent(java.util.List,androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Lifecycle$Event,java.lang.Object)
+    final java.util.Map mEventToHandlers
+    final java.util.Map mHandlerToEvent
+androidx.core.app.RemoteInput$Source
+com.coloros.ocs.base.IAuthenticationListener$Stub$Proxy
+androidx.core.app.NotificationManagerCompat$CancelTask
+androidx.collection.ArraySet
+androidx.core.text.util.LinkifyCompat$1
+com.coloros.ocs.base.task.Tasks$a
+androidx.core.util.Pools
+androidx.core.os.OperationCanceledException
+androidx.annotation.MenuRes
+androidx.savedstate.SavedStateRegistry:
+    void <init>()
+    public void registerSavedStateProvider(java.lang.String,androidx.savedstate.SavedStateRegistry$SavedStateProvider)
+    public void unregisterSavedStateProvider(java.lang.String)
+    public boolean isRestored()
+    public void runOnNextRecreation(java.lang.Class)
+    void performRestore(androidx.lifecycle.Lifecycle,android.os.Bundle)
+    void performSave(android.os.Bundle)
+    private androidx.arch.core.internal.SafeIterableMap mComponents
+    private android.os.Bundle mRestoredState
+    private boolean mRestored
+    private androidx.savedstate.Recreator$SavedStateProvider mRecreatorProvider
+    private static final java.lang.String SAVED_COMPONENTS_KEY
+androidx.fragment.app.FragmentManagerViewModel$1
+androidx.core.text.PrecomputedTextCompat$Params
+androidx.lifecycle.ComputableLiveData
+com.coloros.ocs.mediaunit.IKaraokeService$Stub:
+    public void <init>()
+    public static boolean setDefaultImpl(com.coloros.ocs.mediaunit.IKaraokeService)
+    public android.os.IBinder asBinder()
+    public boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+    private static final java.lang.String DESCRIPTOR
+    static final int TRANSACTION_requestAudioLoopback
+    static final int TRANSACTION_abandonAudioLoopback
+androidx.core.text.TextDirectionHeuristicsCompat$FirstStrong
+com.coloros.ocs.base.task.d
+androidx.core.app.NotificationCompat$GroupAlertBehavior
+androidx.core.graphics.drawable.RoundedBitmapDrawableFactory$DefaultRoundedBitmapDrawable
+androidx.core.view.NestedScrollingParent2
+androidx.activity.R$style
+androidx.core.app.JobIntentService$CommandProcessor
+io.flutter.view.FlutterView$ViewportMetrics
+androidx.core.provider.FontsContractCompat$5
+androidx.core.view.ViewCompat$1
+com.baseflow.permissionhandler.PermissionUtils:
+    public void <init>()
+androidx.core.view.inputmethod.InputContentInfoCompat$InputContentInfoCompatImpl
+androidx.core.view.accessibility.AccessibilityNodeProviderCompat
+androidx.annotation.AnimatorRes
+androidx.core.view.accessibility.AccessibilityManagerCompat$TouchExplorationStateChangeListenerWrapper
+androidx.versionedparcelable.ParcelField
+androidx.core.content.res.ColorStateListInflaterCompat
+androidx.fragment.app.Fragment$OnStartEnterTransitionListener
+androidx.core.text.TextDirectionHeuristicsCompat$AnyStrong
+org.intellij.lang.annotations.JdkConstants$TreeSelectionMode
+androidx.collection.ArraySet$1
+androidx.core.provider.FontsContractCompat$FontRequestCallback
+io.flutter.plugin.editing.TextInputPlugin:
+    android.text.Editable getEditable()
+    io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback getImeSyncCallback()
+    public io.flutter.embedding.android.AndroidKeyProcessor getKeyEventProcessor()
+    private static final java.lang.String TAG
+androidx.core.app.NotificationManagerCompat$SideChannelManager$ListenerRecord
+androidx.core.graphics.TypefaceCompatBaseImpl$StyleExtractor
+androidx.core.database.DatabaseUtilsCompat
+androidx.fragment.app.FragmentTransitionCompat21$1
+androidx.core.view.MenuItemCompat$OnActionExpandListener
+androidx.loader.app.LoaderManagerImpl$LoaderObserver
+androidx.lifecycle.LifecycleRegistry$ObserverWithState:
+    void <init>(androidx.lifecycle.LifecycleObserver,androidx.lifecycle.Lifecycle$State)
+com.coloros.ocs.base.common.constant.CapabilityConstants
+androidx.core.graphics.drawable.TintAwareDrawable
+com.coloros.ocs.base.common.api.ColorApiClient:
+    public abstract com.coloros.ocs.base.common.api.Api getApi()
+    public abstract android.os.Looper getLooper()
+    public abstract boolean isConnecting()
+    public abstract android.os.IBinder getRemoteService()
+    public abstract int getRemoteVersion()
+    public abstract void setOnConnectionFailedListener(com.coloros.ocs.base.common.api.OnConnectionFailedListener,android.os.Handler)
+androidx.viewpager.widget.ViewPager$SavedState
+androidx.annotation.AnimRes
+androidx.annotation.XmlRes
+androidx.loader.content.Loader$OnLoadCanceledListener
+androidx.lifecycle.ViewModelStore:
+    public void <init>()
+    final void put(java.lang.String,androidx.lifecycle.ViewModel)
+    final androidx.lifecycle.ViewModel get(java.lang.String)
+    java.util.Set keys()
+    private final java.util.HashMap mMap
+androidx.core.graphics.TypefaceCompatBaseImpl
+androidx.core.view.ViewCompat$NestedScrollType
+io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterAssets:
+    public abstract java.lang.String getAssetFilePathByName(java.lang.String,java.lang.String)
+    public abstract java.lang.String getAssetFilePathBySubpath(java.lang.String)
+    public abstract java.lang.String getAssetFilePathBySubpath(java.lang.String,java.lang.String)
+androidx.activity.OnBackPressedDispatcher:
+    public void <init>()
+    public void <init>(java.lang.Runnable)
+    public void addCallback(androidx.activity.OnBackPressedCallback)
+    public void addCallback(androidx.lifecycle.LifecycleOwner,androidx.activity.OnBackPressedCallback)
+    public boolean hasEnabledCallbacks()
+    private final java.lang.Runnable mFallbackOnBackPressed
+    final java.util.ArrayDeque mOnBackPressedCallbacks
+com.baseflow.permissionhandler.PermissionConstants$PermissionStatus
+com.baseflow.permissionhandler.PermissionConstants
+com.huawei.multimedia.audioengine.IHwAudioEngine:
+    public abstract java.util.List getSupportedFeatures()
+    public abstract boolean isFeatureSupported(int)
+androidx.annotation.IntDef
+androidx.core.os.CancellationSignal$OnCancelListener
+androidx.fragment.app.FragmentManagerImpl$1
+androidx.loader.R$styleable
+androidx.core.view.KeyEventDispatcher
+androidx.core.view.NestedScrollingChild3
+androidx.core.content.res.TypedArrayUtils
+io.flutter.BuildConfig
+androidx.fragment.app.FragmentContainer
+androidx.fragment.app.FragmentTransitionImpl$2
+android.support.v4.os.ResultReceiver
+androidx.core.app.JobIntentService$JobWorkEnqueuer
+androidx.arch.core.R
+androidx.core.graphics.drawable.RoundedBitmapDrawableFactory
+androidx.core.content.pm.ShortcutManagerCompat
+androidx.lifecycle.LifecycleRegistry:
+    private androidx.lifecycle.Lifecycle$State calculateTargetState(androidx.lifecycle.LifecycleObserver)
+    public void markState(androidx.lifecycle.Lifecycle$State)
+    public void setCurrentState(androidx.lifecycle.Lifecycle$State)
+    public void addObserver(androidx.lifecycle.LifecycleObserver)
+    public int getObserverCount()
+io.flutter.embedding.engine.systemchannels.KeyEventChannel$FlutterKeyEvent:
+    public void <init>(android.view.KeyEvent)
+androidx.fragment.app.FragmentManagerImpl$OpGenerator
+androidx.core.widget.ScrollerCompat
+androidx.fragment.app.FragmentHostCallback
+androidx.core.provider.FontsContractCompat$4$7
+androidx.fragment.app.FragmentTransaction
+androidx.core.app.AppComponentFactory
+androidx.core.view.TintableBackgroundView
+androidx.core.app.NotificationCompatExtras
+androidx.lifecycle.ViewModelProvider$Factory
+androidx.core.R$attr
+androidx.annotation.ColorRes
+androidx.core.content.res.GrowingArrayUtils
+com.huawei.multimedia.audiokit.interfaces.FeatureKitManager:
+    private static final java.lang.String TAG
+    private static final java.lang.String ENGINE_PACKAGE_NAME
+    private static final int PACKAGE_INFO_FLAG
+io.flutter.embedding.engine.FlutterEngineConnectionRegistry$FlutterEngineActivityPluginBinding:
+    public java.lang.Object getLifecycle()
+    public void addOnNewIntentListener(io.flutter.plugin.common.PluginRegistry$NewIntentListener)
+    public void removeOnNewIntentListener(io.flutter.plugin.common.PluginRegistry$NewIntentListener)
+    public void addOnUserLeaveHintListener(io.flutter.plugin.common.PluginRegistry$UserLeaveHintListener)
+    public void removeOnUserLeaveHintListener(io.flutter.plugin.common.PluginRegistry$UserLeaveHintListener)
+    public void addOnSaveStateListener(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding$OnSaveInstanceStateListener)
+    public void removeOnSaveStateListener(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding$OnSaveInstanceStateListener)
+androidx.annotation.IdRes
+androidx.customview.widget.FocusStrategy$SequentialComparator
+io.flutter.view.FlutterView$3
+androidx.core.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderApi19
+com.coloros.ocs.base.task.h
+androidx.viewpager.widget.PagerAdapter
+androidx.core.view.ViewCompat$5
+androidx.core.text.ICUCompat
+androidx.fragment.app.FragmentManagerImpl$3$1
+com.coloros.ocs.base.common.constant.CommonStatusCodes:
+    protected void <init>()
+    public static final int SUCCESS_CACHE
+    public static final int SUCCESS
+    public static final int CONNECTED
+    public static final int CONNECTING
+    public static final int CONNECT_FAILED
+    public static final int DISCONNECT
+    public static final int CONNECTED_SUCCESS_UNBIND
+    public static final int CANCELED
+    public static final int INTERNAL_ERROR
+    public static final int TASK_NULL
+    public static final int INTERRUPTED
+    public static final int TIMEOUT
+    public static final int API_NOT_CONNECTED
+    public static final int CLIENT_UNKNOWN
+    public static final int SERVICE_ABNORMAL_EXIT
+    public static final int RECONNECTING
+    public static final int AUTHENTICATE_SUCCESS
+    public static final int AUTHENTICATE_FAIL
+    public static final int TIME_EXPIRED
+    public static final int AUTHCODE_EXPECTED
+    public static final int VERSION_INCOMPATIBLE
+    public static final int AUTHCODE_RECYCLE
+    public static final int AUTHCODE_INVALID
+    public static final int CAPABILITY_EXCEPTION
+androidx.core.os.ParcelableCompatCreatorCallbacks
+com.coloros.ocs.base.internal.safeparcel.b
+androidx.core.provider.FontsContractCompat$1
+androidx.core.util.Pair
+io.flutter.view.FlutterView$ZeroSides
+com.coloros.ocs.base.common.api.ColorApi:
+    protected void <init>(android.content.Context,com.coloros.ocs.base.common.api.Api,com.coloros.ocs.base.internal.ClientSettings)
+    public void <init>(android.app.Activity,com.coloros.ocs.base.common.api.Api,com.coloros.ocs.base.common.api.Api$ApiOptions,com.coloros.ocs.base.internal.ClientSettings)
+    protected android.os.IBinder getRemoteService()
+    protected void releaseClientKey()
+    protected int getRemoteVersion()
+    protected void addThis2Cache()
+    protected void disconnect()
+    protected boolean checkExist()
+    public abstract int getVersion()
+    public abstract boolean hasFeature(java.lang.String)
+    protected com.coloros.ocs.base.common.AuthResult getAuthResult()
+    protected abstract void init()
+    public com.coloros.ocs.base.common.api.ColorApi addOnConnectionFailedListener(com.coloros.ocs.base.common.api.OnConnectionFailedListener)
+    public com.coloros.ocs.base.common.api.ColorApi addOnConnectionFailedListener(com.coloros.ocs.base.common.api.OnConnectionFailedListener,android.os.Handler)
+    protected com.coloros.ocs.base.task.Task doRegisterListener(com.coloros.ocs.base.common.api.TaskListenerHolder$SuccessNotifier,com.coloros.ocs.base.common.api.TaskListenerHolder$FailureNotifier)
+androidx.collection.CircularIntArray
+io.flutter.embedding.engine.loader.FlutterApplicationInfo:
+    private static final java.lang.String DEFAULT_AOT_SHARED_LIBRARY_NAME
+    private static final java.lang.String DEFAULT_VM_SNAPSHOT_DATA
+    private static final java.lang.String DEFAULT_ISOLATE_SNAPSHOT_DATA
+    private static final java.lang.String DEFAULT_FLUTTER_ASSETS_DIR
+androidx.core.content.res.FontResourcesParserCompat$FontFamilyFilesResourceEntry
+androidx.versionedparcelable.VersionedParcelStream$1
+androidx.loader.content.AsyncTaskLoader$LoadTask
+androidx.core.os.LocaleListCompatWrapper
+androidx.fragment.app.Fragment$1
+androidx.core.content.pm.ShortcutInfoCompat$Builder
+androidx.core.provider.FontsContractCompat$Columns
+androidx.fragment.app.FragmentManager
+io.flutter.embedding.engine.FlutterEngineGroup
+androidx.core.widget.ListPopupWindowCompat
+androidx.core.app.AlarmManagerCompat
+androidx.loader.content.Loader
+androidx.core.graphics.drawable.WrappedDrawableApi14
+androidx.lifecycle.ComputableLiveData$3
+androidx.core.graphics.drawable.WrappedDrawable
+androidx.core.graphics.drawable.RoundedBitmapDrawable21
+io.flutter.view.FlutterNativeView$EngineLifecycleListenerImpl
+androidx.lifecycle.ClassesInfoCache
+androidx.fragment.app.FragmentTransition
+androidx.core.os.ParcelableCompat
+androidx.loader.R$attr
+androidx.arch.core.executor.ArchTaskExecutor$1
+io.flutter.embedding.engine.FlutterEngineConnectionRegistry$DefaultFlutterAssets:
+    public java.lang.String getAssetFilePathByName(java.lang.String,java.lang.String)
+    public java.lang.String getAssetFilePathBySubpath(java.lang.String)
+    public java.lang.String getAssetFilePathBySubpath(java.lang.String,java.lang.String)
+androidx.activity.R$id
+androidx.core.os.BuildCompat
+org.intellij.lang.annotations.JdkConstants$CalendarMonth
+com.coloros.ocs.base.common.api.c:
+    static void a(com.coloros.ocs.base.common.api.ColorApi,com.coloros.ocs.base.common.api.OnConnectionFailedListener,android.os.Handler)
+    static android.os.IBinder a(com.coloros.ocs.base.common.api.ColorApi)
+    static int b(com.coloros.ocs.base.common.api.ColorApi)
+    static com.coloros.ocs.base.common.AuthResult c(com.coloros.ocs.base.common.api.ColorApi)
+androidx.core.view.MarginLayoutParamsCompat
+com.coloros.ocs.base.task.j
+androidx.viewpager.R
+androidx.fragment.app.FragmentManagerImpl$AnimationOrAnimator
+androidx.core.widget.NestedScrollView$OnScrollChangeListener
+androidx.core.text.PrecomputedTextCompat$PrecomputedTextFutureTask
+io.flutter.app.FlutterPluginRegistry
+androidx.fragment.app.Fragment$SavedState$1
+androidx.core.content.res.FontResourcesParserCompat$ProviderResourceEntry
+androidx.customview.R$string
+com.example.musicbackground.R$mipmap
+androidx.annotation.IntRange
+androidx.core.text.BidiFormatter$DirectionalityEstimator
+io.flutter.plugin.common.MethodChannel:
+    public void resizeChannelBuffer(int)
+    private static final java.lang.String TAG
+androidx.customview.view.AbsSavedState$1
+org.intellij.lang.annotations.JdkConstants$TabLayoutPolicy
+com.coloros.ocs.base.task.OnCanceledListener
+androidx.core.widget.ListViewCompat
+com.huawei.multimedia.audiokit.config.Version
+androidx.core.R$dimen
+androidx.core.view.ViewCompat$FocusRealDirection
+io.flutter.embedding.engine.FlutterEngineGroup$1
+io.flutter.embedding.android.FlutterEngineProvider
+com.coloros.ocs.base.task.Task:
+    public abstract boolean isComplete()
+    public abstract boolean isSuccessful()
+    public abstract boolean isCanceled()
+    public abstract java.lang.Object getResult()
+    public abstract java.lang.Object getResult(java.lang.Class)
+    public abstract java.lang.Exception getException()
+    public abstract com.coloros.ocs.base.task.Task addOnSuccessListener(com.coloros.ocs.base.task.OnSuccessListener)
+    public abstract com.coloros.ocs.base.task.Task addOnSuccessListener(java.util.concurrent.Executor,com.coloros.ocs.base.task.OnSuccessListener)
+    public abstract com.coloros.ocs.base.task.Task addOnFailureListener(com.coloros.ocs.base.task.OnFailureListener)
+    public abstract com.coloros.ocs.base.task.Task addOnFailureListener(java.util.concurrent.Executor,com.coloros.ocs.base.task.OnFailureListener)
+    public abstract com.coloros.ocs.base.task.Task addOnCompleteListener(com.coloros.ocs.base.task.OnCompleteListener)
+    public abstract com.coloros.ocs.base.task.Task addOnCompleteListener(java.util.concurrent.Executor,com.coloros.ocs.base.task.OnCompleteListener)
+    public abstract com.coloros.ocs.base.task.Task addOnCanceledListener(com.coloros.ocs.base.task.OnCanceledListener)
+    public abstract com.coloros.ocs.base.task.Task addOnCanceledListener(java.util.concurrent.Executor,com.coloros.ocs.base.task.OnCanceledListener)
+    public abstract com.coloros.ocs.base.task.Task continueWith(com.coloros.ocs.base.task.Continuation)
+    public abstract com.coloros.ocs.base.task.Task continueWith(java.util.concurrent.Executor,com.coloros.ocs.base.task.Continuation)
+    public abstract com.coloros.ocs.base.task.Task continueWithTask(com.coloros.ocs.base.task.Continuation)
+    public abstract com.coloros.ocs.base.task.Task continueWithTask(java.util.concurrent.Executor,com.coloros.ocs.base.task.Continuation)
+    public abstract com.coloros.ocs.base.task.Task onSuccessTask(com.coloros.ocs.base.task.SuccessContinuation)
+    public abstract com.coloros.ocs.base.task.Task onSuccessTask(java.util.concurrent.Executor,com.coloros.ocs.base.task.SuccessContinuation)
+androidx.core.math.MathUtils
+androidx.core.os.TraceCompat
+androidx.core.app.JobIntentService$GenericWorkItem
+io.flutter.embedding.engine.plugins.shim.ShimPluginRegistry
+androidx.core.app.ActivityCompat:
+    protected void <init>()
+    public static void setPermissionCompatDelegate(androidx.core.app.ActivityCompat$PermissionCompatDelegate)
+    public static androidx.core.app.ActivityCompat$PermissionCompatDelegate getPermissionCompatDelegate()
+    public static boolean invalidateOptionsMenu(android.app.Activity)
+    public static void startActivityForResult(android.app.Activity,android.content.Intent,int,android.os.Bundle)
+    public static void startIntentSenderForResult(android.app.Activity,android.content.IntentSender,int,android.content.Intent,int,int,int,android.os.Bundle)
+    public static void finishAffinity(android.app.Activity)
+    public static void finishAfterTransition(android.app.Activity)
+    public static android.net.Uri getReferrer(android.app.Activity)
+    public static android.view.View requireViewById(android.app.Activity,int)
+    public static void setEnterSharedElementCallback(android.app.Activity,androidx.core.app.SharedElementCallback)
+    public static void setExitSharedElementCallback(android.app.Activity,androidx.core.app.SharedElementCallback)
+    public static void postponeEnterTransition(android.app.Activity)
+    public static void startPostponedEnterTransition(android.app.Activity)
+    public static androidx.core.view.DragAndDropPermissionsCompat requestDragAndDropPermissions(android.app.Activity,android.view.DragEvent)
+    public static void recreate(android.app.Activity)
+androidx.core.provider.SelfDestructiveThread$2$1
+androidx.viewpager.widget.PagerTitleStrip$SingleLineAllCapsTransform
+org.intellij.lang.annotations.JdkConstants$TitledBorderTitlePosition
+androidx.core.widget.ContentLoadingProgressBar$1
+androidx.viewpager.widget.ViewPager$PagerObserver
+androidx.customview.widget.FocusStrategy$CollectionAdapter
+androidx.core.view.accessibility.AccessibilityViewCommand
+androidx.core.util.ObjectsCompat
+android.support.v4.os.ResultReceiver$1
+androidx.annotation.WorkerThread
+io.flutter.plugin.common.PluginRegistry$Registrar:
+    public abstract android.app.Activity activity()
+    public abstract android.content.Context activeContext()
+    public abstract io.flutter.view.TextureRegistry textures()
+    public abstract io.flutter.view.FlutterView view()
+    public abstract java.lang.String lookupKeyForAsset(java.lang.String,java.lang.String)
+    public abstract io.flutter.plugin.common.PluginRegistry$Registrar publish(java.lang.Object)
+    public abstract io.flutter.plugin.common.PluginRegistry$Registrar addNewIntentListener(io.flutter.plugin.common.PluginRegistry$NewIntentListener)
+    public abstract io.flutter.plugin.common.PluginRegistry$Registrar addUserLeaveHintListener(io.flutter.plugin.common.PluginRegistry$UserLeaveHintListener)
+    public abstract io.flutter.plugin.common.PluginRegistry$Registrar addViewDestroyListener(io.flutter.plugin.common.PluginRegistry$ViewDestroyListener)
+androidx.lifecycle.ViewModelProvider$AndroidViewModelFactory
+com.huawei.multimedia.audiokit.interfaces.HwAudioKit:
+    public java.util.List getSupportedFeatures()
+    public boolean isFeatureSupported(com.huawei.multimedia.audiokit.interfaces.HwAudioKit$FeatureType)
+    private static final java.lang.String TAG
+    private static final java.lang.String ENGINE_CLASS_NAME
+androidx.fragment.app.FragmentTabHost$SavedState$1
+androidx.core.text.PrecomputedTextCompat$Params$Builder
+androidx.annotation.DrawableRes
+androidx.core.app.ServiceCompat$StopForegroundFlags
+androidx.loader.R$style
+androidx.core.net.ConnectivityManagerCompat
+androidx.core.content.res.ResourcesCompat$FontCallback$2
+androidx.customview.R$styleable
+io.flutter.embedding.engine.FlutterEngineConnectionRegistry:
+    public void add(java.util.Set)
+    public io.flutter.embedding.engine.plugins.FlutterPlugin get(java.lang.Class)
+    public void attachToActivity(android.app.Activity,androidx.lifecycle.Lifecycle)
+    public void attachToService(android.app.Service,androidx.lifecycle.Lifecycle,boolean)
+    public void onMoveToForeground()
+    public void onMoveToBackground()
+    public void attachToBroadcastReceiver(android.content.BroadcastReceiver,androidx.lifecycle.Lifecycle)
+    public void attachToContentProvider(android.content.ContentProvider,androidx.lifecycle.Lifecycle)
+    private static final java.lang.String TAG
+org.intellij.lang.annotations.JdkConstants
+androidx.core.app.JobIntentService$JobServiceEngineImpl$WrapperWorkItem
+androidx.core.view.ViewPropertyAnimatorCompat$ViewPropertyAnimatorListenerApi14
+androidx.core.app.NotificationCompatSideChannelService$NotificationSideChannelStub
+androidx.activity.R$integer
+org.intellij.lang.annotations.PrintFormatPattern
+com.baseflow.permissionhandler.R$color
+com.coloros.ocs.base.IServiceBroker$Stub:
+    public void <init>()
+    public static boolean setDefaultImpl(com.coloros.ocs.base.IServiceBroker)
+    public android.os.IBinder asBinder()
+    public boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+    private static final java.lang.String DESCRIPTOR
+    static final int TRANSACTION_handleAuthentication
+    static final int TRANSACTION_getBinder
+com.huawei.multimedia.audiokit.interfaces.HwAudioKaraokeFeatureKit:
+    private static final java.lang.String TAG
+    private static final java.lang.String ENGINE_CLASS_NAME
+com.coloros.ocs.base.task.n
+androidx.lifecycle.ViewModelStoreOwner
+com.coloros.ocs.base.task.TaskExecutors
+androidx.core.content.SharedPreferencesCompat
+androidx.lifecycle.MutableLiveData
+com.baseflow.permissionhandler.R$integer
+io.flutter.view.FlutterRunArguments
+androidx.core.content.res.FontResourcesParserCompat$FetchStrategy
+io.flutter.embedding.android.FlutterFragmentActivity$NewEngineIntentBuilder
+androidx.core.view.GestureDetectorCompat$GestureDetectorCompatImpl
+androidx.core.hardware.fingerprint.FingerprintManagerCompat
+androidx.annotation.LongDef
+androidx.core.app.ActivityRecreator$2
+androidx.lifecycle.livedata.R
+androidx.viewpager.widget.PagerTabStrip$2
+androidx.core.app.ServiceCompat
+androidx.activity.ComponentActivity$3:
+    void <init>(androidx.activity.ComponentActivity)
+androidx.loader.content.ModernAsyncTask$2
+io.flutter.app.FlutterActivityEvents
+io.flutter.view.FlutterView$FirstFrameListener
+androidx.fragment.app.BackStackRecord
+androidx.loader.content.ModernAsyncTask$WorkerRunnable
+com.coloros.ocs.base.common.Feature:
+    public void <init>(java.lang.String,long)
+    public java.lang.String getName()
+    public long getVersion()
+androidx.core.content.FileProvider
+com.coloros.ocs.base.IAuthenticationListener$Stub:
+    public static com.coloros.ocs.base.IAuthenticationListener asInterface(android.os.IBinder)
+    public static boolean setDefaultImpl(com.coloros.ocs.base.IAuthenticationListener)
+    public static com.coloros.ocs.base.IAuthenticationListener getDefaultImpl()
+    private static final java.lang.String DESCRIPTOR
+    static final int TRANSACTION_onSuccess
+    static final int TRANSACTION_onFail
+androidx.core.app.FrameMetricsAggregator$FrameMetricsApi24Impl$1
+io.flutter.plugin.common.JSONUtil:
+    private void <init>()
+    public static java.lang.Object unwrap(java.lang.Object)
+com.example.musicbackground.R$dimen
+androidx.core.widget.NestedScrollView$AccessibilityDelegate
+com.baseflow.permissionhandler.R$id
+androidx.core.content.ContextCompat:
+    protected void <init>()
+    public static boolean startActivities(android.content.Context,android.content.Intent[])
+    public static boolean startActivities(android.content.Context,android.content.Intent[],android.os.Bundle)
+    public static void startActivity(android.content.Context,android.content.Intent,android.os.Bundle)
+    public static java.io.File getDataDir(android.content.Context)
+    public static java.io.File[] getObbDirs(android.content.Context)
+    public static java.io.File[] getExternalFilesDirs(android.content.Context,java.lang.String)
+    public static java.io.File[] getExternalCacheDirs(android.content.Context)
+    public static android.graphics.drawable.Drawable getDrawable(android.content.Context,int)
+    public static android.content.res.ColorStateList getColorStateList(android.content.Context,int)
+    public static int getColor(android.content.Context,int)
+    public static java.io.File getNoBackupFilesDir(android.content.Context)
+    public static java.io.File getCodeCacheDir(android.content.Context)
+    private static synchronized java.io.File createFilesDir(java.io.File)
+    public static android.content.Context createDeviceProtectedStorageContext(android.content.Context)
+    public static boolean isDeviceProtectedStorage(android.content.Context)
+    public static java.util.concurrent.Executor getMainExecutor(android.content.Context)
+    public static void startForegroundService(android.content.Context,android.content.Intent)
+    public static java.lang.Object getSystemService(android.content.Context,java.lang.Class)
+    public static java.lang.String getSystemServiceName(android.content.Context,java.lang.Class)
+    private static final java.lang.String TAG
+    private static android.util.TypedValue sTempValue
+androidx.annotation.Dimension
+androidx.core.widget.EdgeEffectCompat
+androidx.core.view.accessibility.AccessibilityViewCommand$SetSelectionArguments
+com.coloros.ocs.base.common.api.Api$ApiOptions$NoOptions
+androidx.versionedparcelable.VersionedParcel$ParcelException
+com.baseflow.permissionhandler.BuildConfig
+com.coloros.ocs.base.a.d
+androidx.fragment.app.FragmentTransition$1
+androidx.lifecycle.ReportFragment$ActivityInitializationListener
+androidx.core.app.NotificationCompat$Action$Builder
+io.flutter.view.FlutterMain$Settings
+androidx.core.os.UserManagerCompat
+org.intellij.lang.annotations.PrintFormat
+androidx.core.util.AtomicFile
+androidx.lifecycle.LiveData:
+    public void <init>()
+    private void considerNotify(androidx.lifecycle.LiveData$ObserverWrapper)
+    private static void assertMainThread(java.lang.String)
+    static void <clinit>()
+    public void observe(androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Observer)
+    public void observeForever(androidx.lifecycle.Observer)
+    public void removeObservers(androidx.lifecycle.LifecycleOwner)
+    protected void postValue(java.lang.Object)
+    protected void setValue(java.lang.Object)
+    public java.lang.Object getValue()
+    int getVersion()
+    public boolean hasObservers()
+    public boolean hasActiveObservers()
+    final java.lang.Object mDataLock
+    private androidx.arch.core.internal.SafeIterableMap mObservers
+    private volatile java.lang.Object mData
+    volatile java.lang.Object mPendingData
+    private int mVersion
+    private boolean mDispatchingValue
+    private boolean mDispatchInvalidated
+    private final java.lang.Runnable mPostValueRunnable
+    static final int START_VERSION
+    static final java.lang.Object NOT_SET
+androidx.annotation.CallSuper
+com.baseflow.permissionhandler.PermissionConstants$ServiceStatus
+androidx.loader.R$layout
+androidx.core.view.ViewPropertyAnimatorCompat$1
+io.flutter.embedding.engine.loader.ResourceExtractor$1
+androidx.fragment.app.FragmentTransition$FragmentContainerTransition
+androidx.customview.widget.ExploreByTouchHelper$MyNodeProvider
+androidx.core.app.ShareCompat$IntentBuilder
+androidx.fragment.app.FragmentManagerNonConfig
+androidx.viewpager.widget.ViewPager$OnPageChangeListener
+io.flutter.embedding.engine.plugins.broadcastreceiver.BroadcastReceiverPluginBinding:
+    public abstract android.content.BroadcastReceiver getBroadcastReceiver()
+androidx.core.app.SharedElementCallback$OnSharedElementsReadyListener
+androidx.core.view.MenuCompat
+androidx.core.view.MenuItemCompat
+io.flutter.plugin.common.ActivityLifecycleListener
+androidx.loader.content.Loader$OnLoadCompleteListener
+androidx.core.view.GestureDetectorCompat$GestureDetectorCompatImplBase
+io.flutter.view.FlutterView$SurfaceTextureRegistryEntry
+androidx.lifecycle.Transformations
+androidx.customview.R$integer
+org.intellij.lang.annotations.JdkConstants$BoxLayoutAxis
+androidx.core.widget.AutoSizeableTextView
+androidx.fragment.app.FragmentTransitionCompat21$2
+androidx.core.app.TaskStackBuilder
+androidx.versionedparcelable.VersionedParcelStream
+kbuild.autoconf
+androidx.core.view.inputmethod.EditorInfoCompat
+androidx.lifecycle.LiveData$LifecycleBoundObserver:
+    void <init>(androidx.lifecycle.LiveData,androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Observer)
+    boolean isAttachedTo(androidx.lifecycle.LifecycleOwner)
+    void detachObserver()
+com.coloros.ocs.base.task.r
+com.coloros.ocs.base.task.SuccessContinuation
+androidx.viewpager.widget.ViewPager$4
+com.coloros.ocs.base.task.a
+androidx.loader.R$dimen
+androidx.core.provider.SelfDestructiveThread$3
+androidx.lifecycle.Transformations$2$1
+androidx.viewpager.widget.PagerTitleStrip$PageListener
+androidx.core.view.KeyEventDispatcher$Component
+com.coloros.ocs.base.IServiceBroker$Default
+io.flutter.view.AccessibilityBridge:
+    public int getHoveredObjectId()
+    public void reset()
+    private static final java.lang.String TAG
+    private static final int ACTION_SHOW_ON_SCREEN
+    private static final float SCROLL_EXTENT_FOR_INFINITY
+    private static final float SCROLL_POSITION_CAP_FOR_INFINITY
+    private static final int ROOT_NODE_ID
+    private static final int MIN_ENGINE_GENERATED_NODE_ID
+org.intellij.lang.annotations.JdkConstants$InputEventMask
+androidx.fragment.app.FragmentTransitionImpl$3
+androidx.core.provider.FontsContractCompat$FontInfo
+org.intellij.lang.annotations.JdkConstants$HorizontalAlignment
+androidx.core.widget.NestedScrollView$SavedState
+androidx.annotation.RequiresFeature
+com.coloros.ocs.base.common.b
+androidx.core.os.ParcelCompat
+androidx.core.view.ViewPropertyAnimatorUpdateListener
+androidx.annotation.Px
+androidx.customview.widget.ViewDragHelper$Callback
+androidx.core.R$id
+com.coloros.ocs.base.task.Tasks$b
+org.intellij.lang.annotations.JdkConstants$PatternFlags
+androidx.fragment.app.BackStackState
+androidx.viewpager.widget.PagerTabStrip$1
+androidx.core.provider.FontsContractCompat$4$8
+com.coloros.ocs.mediaunit.MediaClient:
+    public boolean requiresColorService()
+androidx.core.content.PermissionChecker$PermissionResult
+androidx.core.app.ActivityCompat$SharedElementCallback21Impl$1
+androidx.customview.R$drawable
+androidx.core.app.NotificationManagerCompat$Task
+androidx.core.os.ConfigurationCompat
+androidx.core.util.Supplier
+androidx.core.view.WindowCompat
+androidx.fragment.R
+androidx.annotation.StringRes
+androidx.lifecycle.OnLifecycleEvent
+io.flutter.embedding.engine.systemchannels.LifecycleChannel:
+    private static final java.lang.String TAG
+androidx.core.app.NotificationManagerCompat$ServiceConnectedEvent
+io.flutter.view.FlutterView$Provider
+androidx.core.content.SharedPreferencesCompat$EditorCompat$Helper
+androidx.core.view.inputmethod.InputConnectionCompat$2
+com.baseflow.permissionhandler.R$layout
+androidx.core.view.DragStartHelper$1
+androidx.core.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListenerWrapper
+io.flutter.embedding.engine.systemchannels.LocalizationChannel:
+    private static final java.lang.String TAG
+androidx.core.app.JobIntentService$WorkEnqueuer
+io.flutter.embedding.engine.systemchannels.AccessibilityChannel:
+    private static final java.lang.String TAG
+com.coloros.ocs.base.common.api.Api$BaseClientBuilder:
+    public int getPriority()
+    public static final int API_PRIORITY_GAMES
+    public static final int API_PRIORITY_PLUS
+    public static final int API_PRIORITY_OTHER
+io.flutter.embedding.android.AndroidTouchProcessor$PointerChange
+androidx.core.hardware.fingerprint.FingerprintManagerCompat$AuthenticationResult
+androidx.lifecycle.LifecycleRegistryOwner
+androidx.fragment.app.Fragment$SavedState
+androidx.core.app.NotificationCompat$InboxStyle
+androidx.core.widget.TintableImageSourceView
+androidx.core.app.FrameMetricsAggregator$FrameMetricsApi24Impl
+com.coloros.ocs.base.task.OnFailureListener
+androidx.customview.widget.FocusStrategy
+androidx.fragment.app.Fragment$4
+io.flutter.embedding.android.AndroidTouchProcessor:
+    private static final int POINTER_DATA_FIELD_COUNT
+    private static final int BYTES_PER_FIELD
+    private static final int POINTER_DATA_FLAG_BATCHED
+    private static final int _POINTER_BUTTON_PRIMARY
+androidx.core.util.Preconditions
+androidx.core.provider.FontsContractCompat$FontFamilyResult
+androidx.core.widget.CompoundButtonCompat
+androidx.core.R$style
+com.example.musicbackground.R$attr
+androidx.core.text.TextUtilsCompat
+io.flutter.embedding.engine.FlutterEngineConnectionRegistry$FlutterEngineBroadcastReceiverPluginBinding:
+    void <init>(android.content.BroadcastReceiver)
+    public android.content.BroadcastReceiver getBroadcastReceiver()
+    private final android.content.BroadcastReceiver broadcastReceiver
+androidx.core.app.NotificationCompat$Action$WearableExtender
+androidx.viewpager.R$styleable
+io.flutter.embedding.engine.loader.FlutterLoader:
+    public static io.flutter.embedding.engine.loader.FlutterLoader getInstance()
+    public void ensureInitializationCompleteAsync(android.content.Context,java.lang.String[],android.os.Handler,java.lang.Runnable)
+    public boolean initialized()
+    public java.lang.String getLookupKeyForAsset(java.lang.String,java.lang.String)
+    private static final java.lang.String TAG
+    private static final java.lang.String OLD_GEN_HEAP_SIZE_META_DATA_KEY
+    private static final java.lang.String ENABLE_SKPARAGRAPH_META_DATA_KEY
+    static final java.lang.String AOT_SHARED_LIBRARY_NAME
+    static final java.lang.String SNAPSHOT_ASSET_PATH_KEY
+    static final java.lang.String VM_SNAPSHOT_DATA_KEY
+    static final java.lang.String ISOLATE_SNAPSHOT_DATA_KEY
+    static final java.lang.String FLUTTER_ASSETS_DIR_KEY
+    private static final java.lang.String DEFAULT_LIBRARY
+    private static final java.lang.String DEFAULT_KERNEL_BLOB
+    private static io.flutter.embedding.engine.loader.FlutterLoader instance
+android.support.v4.os.ResultReceiver$MyRunnable
+androidx.core.app.JobIntentService$CompatWorkEnqueuer
+androidx.activity.R$dimen
+io.flutter.FlutterInjector:
+    public static void setInstance(io.flutter.FlutterInjector)
+    public static void reset()
+com.coloros.ocs.base.task.e
+androidx.core.view.ViewCompat$FocusDirection
+androidx.core.text.TextDirectionHeuristicsCompat$TextDirectionHeuristicInternal
+androidx.activity.ComponentActivity:
+    public void <init>()
+    public void <init>(int)
+    static synthetic void access$001(androidx.activity.ComponentActivity)
+    protected void onCreate(android.os.Bundle)
+    protected void onSaveInstanceState(android.os.Bundle)
+    public final java.lang.Object onRetainNonConfigurationInstance()
+    public java.lang.Object onRetainCustomNonConfigurationInstance()
+    public java.lang.Object getLastCustomNonConfigurationInstance()
+    public androidx.lifecycle.Lifecycle getLifecycle()
+    public void onBackPressed()
+    public final androidx.activity.OnBackPressedDispatcher getOnBackPressedDispatcher()
+    public final androidx.savedstate.SavedStateRegistry getSavedStateRegistry()
+    private final androidx.lifecycle.LifecycleRegistry mLifecycleRegistry
+    private final androidx.savedstate.SavedStateRegistryController mSavedStateRegistryController
+    private androidx.lifecycle.ViewModelStore mViewModelStore
+    private final androidx.activity.OnBackPressedDispatcher mOnBackPressedDispatcher
+    private int mContentLayoutId
+androidx.versionedparcelable.ParcelImpl:
+    public void <init>(androidx.versionedparcelable.VersionedParcelable)
+    public androidx.versionedparcelable.VersionedParcelable getVersionedParcel()
+com.coloros.ocs.base.common.api.Api$ApiOptions$HasOptions
+androidx.annotation.StyleableRes
+com.coloros.ocs.base.common.api.ConnectionClient
+androidx.core.provider.FontsContractCompat$4
+io.flutter.app.FlutterActivityDelegate$1$1
+io.flutter.view.AccessibilityBridge$SemanticsNode:
+    private void log(java.lang.String,boolean)
+androidx.core.text.HtmlCompat
+androidx.core.view.accessibility.AccessibilityRecordCompat
+androidx.versionedparcelable.VersionedParcelStream$FieldBuffer
+androidx.core.view.animation.PathInterpolatorApi14
+io.flutter.embedding.engine.plugins.activity.ActivityControlSurface:
+    public abstract void attachToActivity(android.app.Activity,androidx.lifecycle.Lifecycle)
+com.example.musicbackground.R$drawable
+androidx.fragment.app.FragmentActivity
+androidx.annotation.FractionRes
+org.intellij.lang.annotations.JdkConstants$ListSelectionMode
+io.flutter.embedding.engine.systemchannels.MouseCursorChannel:
+    public void synthesizeMethodCall(io.flutter.plugin.common.MethodCall,io.flutter.plugin.common.MethodChannel$Result)
+    private static final java.lang.String TAG
+io.flutter.embedding.engine.dart.DartExecutor$DartEntrypoint:
+    public static io.flutter.embedding.engine.dart.DartExecutor$DartEntrypoint createDefault()
+    public void <init>(java.lang.String,java.lang.String,java.lang.String)
+androidx.core.provider.FontsContractCompat$4$4
+androidx.fragment.app.ListFragment$1
+androidx.core.app.NotificationManagerCompat$SideChannelManager
+androidx.annotation.FloatRange
+androidx.core.app.DialogCompat
+androidx.core.view.MenuItemCompat$1
+androidx.core.view.ViewPropertyAnimatorCompat
+androidx.core.content.res.ComplexColorCompat
+com.coloros.ocs.mediaunit.IKaraokeService$Stub$Proxy:
+    public java.lang.String getInterfaceDescriptor()
+androidx.fragment.app.FragmentTabHost
+com.baseflow.permissionhandler.R$string
+io.flutter.view.FlutterView$2
+io.flutter.embedding.engine.plugins.broadcastreceiver.BroadcastReceiverControlSurface
+com.baseflow.permissionhandler.R$attr
+io.flutter.embedding.engine.renderer.FlutterRenderer:
+    public android.graphics.Bitmap getBitmap()
+    public void setAccessibilityFeatures(int)
+    public void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+    private static final java.lang.String TAG
+androidx.core.view.ViewCompat$4
+androidx.arch.core.internal.FastSafeIterableMap:
+    public java.lang.Object putIfAbsent(java.lang.Object,java.lang.Object)
+    public java.util.Map$Entry ceil(java.lang.Object)
+androidx.fragment.app.FragmentManagerImpl$2
+com.coloros.ocs.base.internal.safeparcel.a
+androidx.viewpager.widget.ViewPager$ViewPositionComparator
+androidx.core.content.pm.PackageInfoCompat
+com.coloros.ocs.base.common.api.Api$ApiOptions$NotRequiredOptions
+androidx.fragment.app.FragmentManagerViewModel
+androidx.customview.widget.ExploreByTouchHelper
+androidx.annotation.CheckResult
+io.flutter.embedding.engine.systemchannels.PlatformChannel:
+    private static final java.lang.String TAG
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel:
+    private static final java.lang.String TAG
+androidx.core.graphics.drawable.WrappedDrawableApi21
+androidx.lifecycle.LiveData$AlwaysActiveObserver
+androidx.core.app.ActivityManagerCompat
+androidx.core.app.NotificationCompat$Action
+androidx.core.graphics.TypefaceCompatBaseImpl$1
+io.flutter.embedding.android.FlutterEngineConfigurator
+com.coloros.ocs.base.task.TaskImpl:
+    private void a()
+    private void b()
+    private void c()
+    private void d()
+    public boolean isComplete()
+    public boolean isCanceled()
+    public boolean isSuccessful()
+    public java.lang.Object getResult()
+    public java.lang.Object getResult(java.lang.Class)
+    public java.lang.Exception getException()
+    public com.coloros.ocs.base.task.Task addOnSuccessListener(com.coloros.ocs.base.task.OnSuccessListener)
+    public com.coloros.ocs.base.task.Task addOnSuccessListener(java.util.concurrent.Executor,com.coloros.ocs.base.task.OnSuccessListener)
+    public com.coloros.ocs.base.task.Task addOnFailureListener(com.coloros.ocs.base.task.OnFailureListener)
+    public com.coloros.ocs.base.task.Task addOnFailureListener(java.util.concurrent.Executor,com.coloros.ocs.base.task.OnFailureListener)
+    public com.coloros.ocs.base.task.Task addOnCompleteListener(com.coloros.ocs.base.task.OnCompleteListener)
+    public com.coloros.ocs.base.task.Task addOnCompleteListener(java.util.concurrent.Executor,com.coloros.ocs.base.task.OnCompleteListener)
+    public com.coloros.ocs.base.task.Task continueWith(com.coloros.ocs.base.task.Continuation)
+    public com.coloros.ocs.base.task.Task continueWith(java.util.concurrent.Executor,com.coloros.ocs.base.task.Continuation)
+    public com.coloros.ocs.base.task.Task continueWithTask(com.coloros.ocs.base.task.Continuation)
+    public com.coloros.ocs.base.task.Task addOnCanceledListener(com.coloros.ocs.base.task.OnCanceledListener)
+    public com.coloros.ocs.base.task.Task addOnCanceledListener(java.util.concurrent.Executor,com.coloros.ocs.base.task.OnCanceledListener)
+    public com.coloros.ocs.base.task.Task continueWithTask(java.util.concurrent.Executor,com.coloros.ocs.base.task.Continuation)
+    public com.coloros.ocs.base.task.Task onSuccessTask(java.util.concurrent.Executor,com.coloros.ocs.base.task.SuccessContinuation)
+    public com.coloros.ocs.base.task.Task onSuccessTask(com.coloros.ocs.base.task.SuccessContinuation)
+    public void setResult(java.lang.Object)
+    public boolean trySetResult(java.lang.Object)
+    public void setException(java.lang.Exception)
+    public boolean trySetException(java.lang.Exception)
+    public boolean tryCancel()
+    private java.lang.Object b
+    private java.lang.Exception c
+    private volatile boolean e
+    private volatile boolean f
+io.flutter.plugin.common.MethodCall:
+    public java.lang.Object argument(java.lang.String)
+    public boolean hasArgument(java.lang.String)
+androidx.core.text.TextDirectionHeuristicsCompat$TextDirectionHeuristicLocale
+androidx.fragment.app.FragmentManagerState$1
+androidx.arch.core.internal.SafeIterableMap:
+    public java.lang.Object putIfAbsent(java.lang.Object,java.lang.Object)
+    protected androidx.arch.core.internal.SafeIterableMap$Entry put(java.lang.Object,java.lang.Object)
+androidx.core.content.res.ConfigurationHelper
+androidx.core.view.accessibility.AccessibilityViewCommand$ScrollToPositionArguments
+androidx.core.app.TaskStackBuilder$SupportParentable
+com.coloros.ocs.base.common.api.BaseClient:
+    private void g()
+    public android.os.IBinder getRemoteService()
+    public int getMinApkVersion()
+    public java.lang.String getTargetPackageName()
+    public void setOnConnectionFailedListener(com.coloros.ocs.base.common.api.OnConnectionFailedListener,android.os.Handler)
+    public android.os.Looper getLooper()
+    public boolean isConnecting()
+androidx.viewpager.widget.ViewPager
+org.intellij.lang.annotations.Identifier
+androidx.core.app.NotificationCompat$CarExtender$UnreadConversation
+androidx.customview.R$id
+androidx.core.view.ViewCompat$FocusRelativeDirection
+androidx.core.app.FrameMetricsAggregator
+io.flutter.embedding.engine.FlutterEngineConnectionRegistry$FlutterEngineContentProviderPluginBinding:
+    void <init>(android.content.ContentProvider)
+    public android.content.ContentProvider getContentProvider()
+    private final android.content.ContentProvider contentProvider
+androidx.fragment.R$drawable
+androidx.core.graphics.PaintCompat
+com.coloros.ocs.base.common.api.d:
+    public com.coloros.ocs.base.common.api.Api getApi()
+    public android.os.Looper getLooper()
+    public boolean isConnecting()
+    public android.os.IBinder getRemoteService()
+    public int getRemoteVersion()
+    public void setOnConnectionFailedListener(com.coloros.ocs.base.common.api.OnConnectionFailedListener,android.os.Handler)
+io.flutter.embedding.engine.systemchannels.RestorationChannel:
+    private static final java.lang.String TAG
+androidx.viewpager.R$layout
+com.coloros.ocs.base.common.api.Api$Client:
+    public abstract android.os.Looper getLooper()
+    public abstract boolean isConnecting()
+    public abstract boolean requiresColorService()
+    public abstract java.lang.String getTargetPackageName()
+    public abstract int getMinApkVersion()
+    public abstract android.os.IBinder getRemoteService()
+    public abstract void setOnConnectionFailedListener(com.coloros.ocs.base.common.api.OnConnectionFailedListener,android.os.Handler)
+androidx.fragment.app.FragmentManagerImpl$4
+androidx.versionedparcelable.VersionedParcel$1
+androidx.fragment.app.FragmentFactory
+androidx.customview.widget.ExploreByTouchHelper$2
+androidx.viewpager.R$string
+androidx.core.app.ActivityOptionsCompat$ActivityOptionsCompatImpl
+org.intellij.lang.annotations.Language
+androidx.core.app.ActivityRecreator
+androidx.versionedparcelable.NonParcelField
+androidx.fragment.app.FragmentPagerAdapter
+androidx.core.view.GravityCompat
+androidx.annotation.IntegerRes
+androidx.annotation.InspectableProperty$ValueType
+androidx.arch.core.executor.DefaultTaskExecutor
+androidx.core.R
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat$CollectionItemInfoCompat
+androidx.core.view.ViewPropertyAnimatorListenerAdapter
+io.flutter.plugin.common.StandardMessageCodec:
+    private static final java.lang.String TAG
+    private static final byte NULL
+    private static final byte TRUE
+    private static final byte FALSE
+    private static final byte INT
+    private static final byte LONG
+    private static final byte BIGINT
+    private static final byte DOUBLE
+    private static final byte STRING
+    private static final byte BYTE_ARRAY
+    private static final byte INT_ARRAY
+    private static final byte LONG_ARRAY
+    private static final byte DOUBLE_ARRAY
+    private static final byte LIST
+    private static final byte MAP
+androidx.core.app.NotificationManagerCompat$NotifyTask
+androidx.fragment.app.FragmentManagerImpl
+androidx.core.content.pm.ShortcutInfoCompat
+com.coloros.ocs.mediaunit.MediaUnitClient:
+    public int getVersion()
+    public boolean hasFeature(java.lang.String)
+    private static final java.lang.String TAG
+    private static final java.lang.String BIND_SERVICE_ACTION
+    private static final java.lang.String BIND_SERVICE_PACKAGE_NAME
+    private static final java.lang.String BIND_SERVICE_NAME
+com.coloros.ocs.base.task.k
+io.flutter.embedding.android.FlutterSplashView:
+    public void <init>(android.content.Context,android.util.AttributeSet)
+androidx.core.view.accessibility.AccessibilityNodeProviderCompat$AccessibilityNodeProviderApi16
+androidx.core.view.NestedScrollingParent
+androidx.core.app.NotificationCompat$Extender
+androidx.fragment.app.ListFragment
+androidx.core.graphics.TypefaceCompatApi24Impl
+androidx.core.provider.FontsContractCompat$4$1
+com.example.musicbackground.R
+androidx.lifecycle.Observer:
+    public abstract void onChanged(java.lang.Object)
+androidx.viewpager.R$dimen
+com.coloros.ocs.base.a.c:
+    public static void b(java.lang.String)
+io.flutter.app.FlutterApplication
+androidx.core.view.LayoutInflaterCompat$Factory2Wrapper
+com.coloros.ocs.base.task.o
+org.intellij.lang.annotations.JdkConstants$TitledBorderJustification
+androidx.core.app.NotificationCompat$CarExtender$UnreadConversation$Builder
+androidx.loader.content.ModernAsyncTask
+androidx.core.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListener
+io.flutter.embedding.engine.FlutterEngine:
+    public void <init>(android.content.Context)
+    public void <init>(android.content.Context,java.lang.String[])
+    public void <init>(android.content.Context,java.lang.String[],boolean)
+    public void <init>(android.content.Context,io.flutter.embedding.engine.loader.FlutterLoader,io.flutter.embedding.engine.FlutterJNI)
+    public void <init>(android.content.Context,io.flutter.embedding.engine.loader.FlutterLoader,io.flutter.embedding.engine.FlutterJNI,java.lang.String[],boolean)
+    public void <init>(android.content.Context,io.flutter.embedding.engine.loader.FlutterLoader,io.flutter.embedding.engine.FlutterJNI,io.flutter.plugin.platform.PlatformViewsController,java.lang.String[],boolean)
+    io.flutter.embedding.engine.FlutterEngine spawn(android.content.Context,io.flutter.embedding.engine.dart.DartExecutor$DartEntrypoint)
+    public void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+    public void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+    public io.flutter.embedding.engine.systemchannels.LocalizationChannel getLocalizationChannel()
+    public io.flutter.embedding.engine.systemchannels.DeferredComponentChannel getDeferredComponentChannel()
+    public io.flutter.embedding.engine.plugins.service.ServiceControlSurface getServiceControlSurface()
+    public io.flutter.embedding.engine.plugins.broadcastreceiver.BroadcastReceiverControlSurface getBroadcastReceiverControlSurface()
+    public io.flutter.embedding.engine.plugins.contentprovider.ContentProviderControlSurface getContentProviderControlSurface()
+    private static final java.lang.String TAG
+androidx.core.content.res.GradientColorInflaterCompat$ColorStops
+androidx.arch.core.internal.SafeIterableMap$Entry:
+    void <init>(java.lang.Object,java.lang.Object)
+androidx.fragment.R$integer
+androidx.core.view.ViewPropertyAnimatorCompat$2
+org.intellij.lang.annotations.JdkConstants$FontStyle
+androidx.loader.R
+androidx.viewpager.widget.ViewPager$DecorView
+androidx.core.graphics.drawable.DrawableCompat
+androidx.core.content.res.ResourcesCompat$FontCallback$1
+androidx.viewpager.R$id
+com.example.musicbackground.BuildConfig
+androidx.fragment.app.SuperNotCalledException
+androidx.viewpager.widget.ViewPager$MyAccessibilityDelegate
+androidx.viewpager.R$attr
+androidx.core.provider.FontsContractCompat
+com.coloros.ocs.base.task.Continuation
+androidx.core.content.FileProvider$SimplePathStrategy
+com.coloros.ocs.base.task.OnCompleteListener
+androidx.lifecycle.Transformations$1
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable:
+    void <init>(androidx.activity.OnBackPressedDispatcher,androidx.lifecycle.Lifecycle,androidx.activity.OnBackPressedCallback)
+androidx.core.util.TimeUtils
+androidx.core.app.AppOpsManagerCompat
+androidx.activity.R$layout
+com.huawei.multimedia.audioengine.IHwAudioEngine$Stub:
+    public void <init>()
+    public android.os.IBinder asBinder()
+    public boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+    private static final java.lang.String DESCRIPTOR
+    static final int TRANSACTION_getSupportedFeatures
+    static final int TRANSACTION_isFeatureSupported
+    static final int TRANSACTION_init
+androidx.core.app.Person$Builder
+io.flutter.embedding.android.AndroidKeyProcessor$EventResponder:
+    private static final long MAX_PENDING_EVENTS
+androidx.viewpager.R$style
+androidx.core.os.ParcelableCompat$ParcelableCompatCreatorHoneycombMR2
+androidx.core.widget.AutoScrollHelper
+com.coloros.ocs.base.task.TaskCompletionSource
+androidx.core.text.util.FindAddress$ZipRange
+io.flutter.view.FlutterMain
+io.flutter.embedding.android.FlutterActivityAndFragmentDelegate:
+    void onLowMemory()
+    private static final java.lang.String TAG
+    private static final java.lang.String FRAMEWORK_RESTORATION_BUNDLE_KEY
+    private static final java.lang.String PLUGINS_RESTORATION_BUNDLE_KEY
+androidx.core.app.ActivityRecreator$3
+io.flutter.util.PathUtils:
+    public void <init>()
+io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding:
+    public abstract java.lang.Object getLifecycle()
+    public abstract void addOnNewIntentListener(io.flutter.plugin.common.PluginRegistry$NewIntentListener)
+    public abstract void removeOnNewIntentListener(io.flutter.plugin.common.PluginRegistry$NewIntentListener)
+    public abstract void addOnUserLeaveHintListener(io.flutter.plugin.common.PluginRegistry$UserLeaveHintListener)
+    public abstract void removeOnUserLeaveHintListener(io.flutter.plugin.common.PluginRegistry$UserLeaveHintListener)
+    public abstract void addOnSaveStateListener(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding$OnSaveInstanceStateListener)
+    public abstract void removeOnSaveStateListener(io.flutter.embedding.engine.plugins.activity.ActivityPluginBinding$OnSaveInstanceStateListener)
+androidx.fragment.app.FragmentTransitionCompat21$4
+com.coloros.ocs.base.common.Status
+androidx.core.app.NotificationCompat$MessagingStyle$Message
+androidx.loader.content.ModernAsyncTask$1
+androidx.core.widget.TextViewCompat$AutoSizeTextType
+androidx.annotation.NavigationRes
+androidx.core.view.accessibility.AccessibilityNodeInfoCompat
+androidx.savedstate.SavedStateRegistry$1:
+    void <init>(androidx.savedstate.SavedStateRegistry)
+io.flutter.app.FlutterPluginRegistry$FlutterRegistrar
+com.example.musicbackground.R$layout
+com.baseflow.permissionhandler.PermissionHandlerPlugin:
+    public static void registerWith(io.flutter.plugin.common.PluginRegistry$Registrar)
+androidx.core.internal.view.SupportMenu
+com.huawei.multimedia.audiokit.BuildConfig
+io.flutter.plugin.editing.InputConnectionAdaptor:
+    private boolean isSamsung()
+    private static int clampIndexToEditable(int,android.text.Editable)
+    private static final java.lang.String TAG
+androidx.core.view.WindowInsetsCompat
+androidx.core.view.LayoutInflaterFactory
+androidx.core.text.TextDirectionHeuristicsCompat$TextDirectionAlgorithm
+io.flutter.FlutterInjector$Builder:
+    public io.flutter.FlutterInjector$Builder setFlutterLoader(io.flutter.embedding.engine.loader.FlutterLoader)
+    public io.flutter.FlutterInjector$Builder setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+androidx.fragment.app.Fragment$InstantiationException
+io.flutter.plugin.platform.PlatformViewsController:
+    private static final java.lang.String TAG
+com.baseflow.permissionhandler.R
+com.coloros.ocs.base.task.b
+androidx.core.R$drawable
+androidx.core.text.BidiFormatter
+androidx.core.view.inputmethod.InputConnectionCompat$1
+androidx.loader.content.AsyncTaskLoader
+io.flutter.view.FlutterView$SurfaceTextureRegistryEntry$1
+androidx.core.view.InputDeviceCompat
+androidx.viewpager.widget.ViewPager$SimpleOnPageChangeListener
+androidx.core.provider.FontRequest
+androidx.fragment.app.FragmentTabHost$DummyTabFactory
+androidx.fragment.R$id
+androidx.core.graphics.TypefaceCompatApi28Impl
+androidx.activity.R$string
+androidx.lifecycle.SingleGeneratedAdapterObserver:
+    void <init>(androidx.lifecycle.GeneratedAdapter)
+androidx.core.view.OnApplyWindowInsetsListener
+androidx.core.content.pm.PermissionInfoCompat$ProtectionFlags
+androidx.loader.app.LoaderManagerImpl$LoaderInfo
+androidx.core.provider.FontsContractCompat$FontRequestCallback$FontRequestFailReason
+androidx.lifecycle.ComputableLiveData$1
+androidx.core.util.LogWriter
+androidx.fragment.app.FragmentManagerImpl$StartEnterTransitionListener
+androidx.core.app.NotificationCompat$Builder
+androidx.core.net.ConnectivityManagerCompat$RestrictBackgroundStatus
+io.flutter.plugin.platform.PlatformPlugin:
+    public void <init>(android.app.Activity,io.flutter.embedding.engine.systemchannels.PlatformChannel)
+    public static final int DEFAULT_SYSTEM_UI
+    private static final java.lang.String TAG
+androidx.core.graphics.TypefaceCompatApi21Impl
+androidx.lifecycle.LiveData$1
+androidx.versionedparcelable.VersionedParcelize
+androidx.fragment.app.FragmentTransitionCompat21$3
+androidx.lifecycle.DefaultLifecycleObserver
+io.flutter.embedding.engine.loader.ResourceExtractor$ExtractTask
+io.flutter.embedding.android.FlutterTextureView:
+    private static final java.lang.String TAG
+androidx.loader.content.ModernAsyncTask$Status
+androidx.core.view.ViewCompat
+androidx.lifecycle.ViewModelProvider$NewInstanceFactory
+io.flutter.embedding.engine.plugins.shim.ShimPluginRegistry$1
+androidx.fragment.app.FragmentManagerImpl$FragmentTag
+androidx.lifecycle.ViewModelProvider
+androidx.core.os.CancellationSignal
+androidx.core.app.NotificationCompat$BadgeIconType
+androidx.loader.app.LoaderManagerImpl
+androidx.loader.app.LoaderManager
+androidx.fragment.app.FragmentTransition$4
+androidx.core.provider.SelfDestructiveThread$2
+androidx.fragment.app.FragmentState
+androidx.loader.R$integer
+com.huawei.multimedia.audiokit.config.ResultCode
+androidx.core.graphics.TypefaceCompatApi26Impl
+androidx.core.view.DragStartHelper$2
+android.support.v4.os.IResultReceiver$Stub
+androidx.arch.core.util.Function
+android.support.v4.app.INotificationSideChannel$Stub$Proxy
+io.flutter.view.FlutterNativeView$1
+androidx.lifecycle.MediatorLiveData
+org.intellij.lang.annotations.JdkConstants$CursorType
+androidx.annotation.RequiresPermission$Write
+androidx.core.graphics.drawable.IconCompat:
+    public static androidx.core.graphics.drawable.IconCompat createWithResource(android.content.Context,int)
+    public static androidx.core.graphics.drawable.IconCompat createWithResource(android.content.res.Resources,java.lang.String,int)
+    public static androidx.core.graphics.drawable.IconCompat createWithBitmap(android.graphics.Bitmap)
+    public static androidx.core.graphics.drawable.IconCompat createWithAdaptiveBitmap(android.graphics.Bitmap)
+    public static androidx.core.graphics.drawable.IconCompat createWithData(byte[],int,int)
+    public static androidx.core.graphics.drawable.IconCompat createWithContentUri(java.lang.String)
+    public static androidx.core.graphics.drawable.IconCompat createWithContentUri(android.net.Uri)
+    private void <init>(int)
+    private android.graphics.drawable.Drawable loadDrawableInner(android.content.Context)
+    private static android.content.res.Resources getResources(android.content.Context,java.lang.String)
+    public static androidx.core.graphics.drawable.IconCompat createFromBundle(android.os.Bundle)
+    public static androidx.core.graphics.drawable.IconCompat createFromIcon(android.content.Context,android.graphics.drawable.Icon)
+    public static androidx.core.graphics.drawable.IconCompat createFromIcon(android.graphics.drawable.Icon)
+    private static int getType(android.graphics.drawable.Icon)
+    private static android.net.Uri getUri(android.graphics.drawable.Icon)
+    static android.graphics.Bitmap createLegacyIconFromAdaptiveIcon(android.graphics.Bitmap,boolean)
+    public int getType()
+    public android.graphics.Bitmap getBitmap()
+    public android.net.Uri getUri()
+    public androidx.core.graphics.drawable.IconCompat setTint(int)
+    public androidx.core.graphics.drawable.IconCompat setTintList(android.content.res.ColorStateList)
+    public androidx.core.graphics.drawable.IconCompat setTintMode(android.graphics.PorterDuff$Mode)
+    public android.graphics.drawable.Icon toIcon()
+    public void checkResource(android.content.Context)
+    public android.graphics.drawable.Drawable loadDrawable(android.content.Context)
+    public void addToShortcutIntent(android.content.Intent,android.graphics.drawable.Drawable,android.content.Context)
+    public android.os.Bundle toBundle()
+    private static final java.lang.String TAG
+    public static final int TYPE_UNKNOWN
+    private static final float ADAPTIVE_ICON_INSET_FACTOR
+    private static final float DEFAULT_VIEW_PORT_SCALE
+    private static final float ICON_DIAMETER_FACTOR
+    private static final float BLUR_FACTOR
+    private static final float KEY_SHADOW_OFFSET_FACTOR
+    private static final int KEY_SHADOW_ALPHA
+    private static final int AMBIENT_SHADOW_ALPHA
+    private static final java.lang.String EXTRA_TYPE
+    private static final java.lang.String EXTRA_OBJ
+    private static final java.lang.String EXTRA_INT1
+    private static final java.lang.String EXTRA_INT2
+    private static final java.lang.String EXTRA_TINT_LIST
+    private static final java.lang.String EXTRA_TINT_MODE
+androidx.core.content.res.GradientColorInflaterCompat
+io.flutter.embedding.engine.dart.DartMessenger:
+    public int getPendingChannelResponseCount()
+    private static final java.lang.String TAG
+androidx.core.view.accessibility.AccessibilityViewCommand$MoveAtGranularityArguments
+androidx.core.view.inputmethod.InputConnectionCompat$OnCommitContentListener
+androidx.loader.R$string
+androidx.customview.view.AbsSavedState
+io.flutter.embedding.engine.FlutterEngineConnectionRegistry$FlutterEngineServicePluginBinding:
+    void <init>(android.app.Service,androidx.lifecycle.Lifecycle)
+    public android.app.Service getService()
+    public java.lang.Object getLifecycle()
+    public void addOnModeChangeListener(io.flutter.embedding.engine.plugins.service.ServiceAware$OnModeChangeListener)
+    public void removeOnModeChangeListener(io.flutter.embedding.engine.plugins.service.ServiceAware$OnModeChangeListener)
+    void onMoveToForeground()
+    void onMoveToBackground()
+    private final android.app.Service service
+    private final io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference hiddenLifecycleReference
+    private final java.util.Set onModeChangeListeners
+androidx.core.os.LocaleListCompat
+androidx.lifecycle.ClassesInfoCache$MethodReference
+io.flutter.embedding.android.FlutterActivity:
+    public static android.content.Intent createDefaultIntent(android.content.Context)
+    public static io.flutter.embedding.android.FlutterActivity$NewEngineIntentBuilder withNewEngine()
+    public static io.flutter.embedding.android.FlutterActivity$CachedEngineIntentBuilder withCachedEngine(java.lang.String)
+    void setDelegate(io.flutter.embedding.android.FlutterActivityAndFragmentDelegate)
+    private static final java.lang.String TAG
+androidx.core.os.LocaleListPlatformWrapper
+com.coloros.ocs.base.task.Tasks$c
+androidx.core.view.ViewCompat$UnhandledKeyEventManager
+com.baseflow.permissionhandler.R$styleable
+androidx.core.internal.view.SupportMenuItem
+androidx.core.provider.FontsContractCompat$4$9
+androidx.annotation.AnyRes
+com.example.musicbackground.R$string
+androidx.customview.R$layout
+android.support.v4.app.INotificationSideChannel$Stub
+androidx.core.app.JobIntentService$JobServiceEngineImpl
+com.coloros.ocs.base.internal.safeparcel.AbstractSafeParcelable
+androidx.core.app.BundleCompat
+androidx.loader.content.CursorLoader
+androidx.core.app.NavUtils
+androidx.core.graphics.ColorUtils
+androidx.fragment.app.FragmentManager$BackStackEntry
+com.coloros.ocs.base.task.f
+androidx.core.view.DragStartHelper
+io.flutter.view.FlutterView$1
+androidx.core.content.res.ResourcesCompat
+io.flutter.embedding.engine.FlutterShellArgs:
+    public void <init>(java.lang.String[])
+    public void <init>(java.util.Set)
+    public void add(java.lang.String)
+    public void remove(java.lang.String)
+    public static final java.lang.String ARG_KEY_TRACE_STARTUP
+    public static final java.lang.String ARG_TRACE_STARTUP
+    public static final java.lang.String ARG_KEY_START_PAUSED
+    public static final java.lang.String ARG_START_PAUSED
+    public static final java.lang.String ARG_KEY_DISABLE_SERVICE_AUTH_CODES
+    public static final java.lang.String ARG_DISABLE_SERVICE_AUTH_CODES
+    public static final java.lang.String ARG_KEY_ENDLESS_TRACE_BUFFER
+    public static final java.lang.String ARG_ENDLESS_TRACE_BUFFER
+    public static final java.lang.String ARG_KEY_USE_TEST_FONTS
+    public static final java.lang.String ARG_USE_TEST_FONTS
+    public static final java.lang.String ARG_KEY_ENABLE_DART_PROFILING
+    public static final java.lang.String ARG_ENABLE_DART_PROFILING
+    public static final java.lang.String ARG_KEY_ENABLE_SOFTWARE_RENDERING
+    public static final java.lang.String ARG_ENABLE_SOFTWARE_RENDERING
+    public static final java.lang.String ARG_KEY_SKIA_DETERMINISTIC_RENDERING
+    public static final java.lang.String ARG_SKIA_DETERMINISTIC_RENDERING
+    public static final java.lang.String ARG_KEY_TRACE_SKIA
+    public static final java.lang.String ARG_TRACE_SKIA
+    public static final java.lang.String ARG_KEY_TRACE_SYSTRACE
+    public static final java.lang.String ARG_TRACE_SYSTRACE
+    public static final java.lang.String ARG_KEY_DUMP_SHADER_SKP_ON_SHADER_COMPILATION
+    public static final java.lang.String ARG_DUMP_SHADER_SKP_ON_SHADER_COMPILATION
+    public static final java.lang.String ARG_KEY_CACHE_SKSL
+    public static final java.lang.String ARG_CACHE_SKSL
+    public static final java.lang.String ARG_KEY_PURGE_PERSISTENT_CACHE
+    public static final java.lang.String ARG_PURGE_PERSISTENT_CACHE
+    public static final java.lang.String ARG_KEY_VERBOSE_LOGGING
+    public static final java.lang.String ARG_VERBOSE_LOGGING
+    public static final java.lang.String ARG_KEY_OBSERVATORY_PORT
+    public static final java.lang.String ARG_OBSERVATORY_PORT
+    public static final java.lang.String ARG_KEY_DART_FLAGS
+    public static final java.lang.String ARG_DART_FLAGS
+androidx.fragment.app.FragmentTransitionImpl
+androidx.versionedparcelable.VersionedParcel:
+    private void writeCollection(java.util.Collection,int)
+    private void writeCollection(java.util.Collection)
+    private int getType(java.lang.Object)
+    private void writeSerializable(java.io.Serializable)
+    private int readExceptionCode()
+    private java.lang.Exception readException(int,java.lang.String)
+    protected static java.lang.Throwable getRootCause(java.lang.Throwable)
+    private java.lang.Exception createException(int,java.lang.String)
+    private java.util.Collection readCollection(java.util.Collection)
+    protected abstract void writeByteArray(byte[],int,int)
+    protected abstract void writeLong(long)
+    protected abstract void writeFloat(float)
+    protected abstract void writeDouble(double)
+    protected abstract void writeStrongBinder(android.os.IBinder)
+    protected abstract void writeStrongInterface(android.os.IInterface)
+    protected abstract void writeBundle(android.os.Bundle)
+    protected abstract long readLong()
+    protected abstract float readFloat()
+    protected abstract double readDouble()
+    protected abstract android.os.IBinder readStrongBinder()
+    protected abstract android.os.Bundle readBundle()
+    public void writeStrongInterface(android.os.IInterface,int)
+    public void writeBundle(android.os.Bundle,int)
+    public void writeByteArray(byte[],int,int,int)
+    public void writeLong(long,int)
+    public void writeFloat(float,int)
+    public void writeDouble(double,int)
+    public void writeStrongBinder(android.os.IBinder,int)
+    public long readLong(long,int)
+    public float readFloat(float,int)
+    public double readDouble(double,int)
+    public android.os.IBinder readStrongBinder(android.os.IBinder,int)
+    public android.os.Bundle readBundle(android.os.Bundle,int)
+    public void writeByte(byte,int)
+    public void writeSize(android.util.Size,int)
+    public void writeSizeF(android.util.SizeF,int)
+    public void writeSparseBooleanArray(android.util.SparseBooleanArray,int)
+    public void writeBooleanArray(boolean[],int)
+    protected void writeBooleanArray(boolean[])
+    public boolean[] readBooleanArray(boolean[],int)
+    protected boolean[] readBooleanArray()
+    public void writeCharArray(char[],int)
+    public char[] readCharArray(char[],int)
+    public void writeIntArray(int[],int)
+    protected void writeIntArray(int[])
+    public int[] readIntArray(int[],int)
+    protected int[] readIntArray()
+    public void writeLongArray(long[],int)
+    protected void writeLongArray(long[])
+    public long[] readLongArray(long[],int)
+    protected long[] readLongArray()
+    public void writeFloatArray(float[],int)
+    protected void writeFloatArray(float[])
+    public float[] readFloatArray(float[],int)
+    protected float[] readFloatArray()
+    public void writeDoubleArray(double[],int)
+    protected void writeDoubleArray(double[])
+    public double[] readDoubleArray(double[],int)
+    protected double[] readDoubleArray()
+    public void writeSet(java.util.Set,int)
+    public void writeList(java.util.List,int)
+    public void writeMap(java.util.Map,int)
+    public void writeArray(java.lang.Object[],int)
+    protected void writeArray(java.lang.Object[])
+    public void writeSerializable(java.io.Serializable,int)
+    public void writeException(java.lang.Exception,int)
+    protected void writeNoException()
+    public java.lang.Exception readException(java.lang.Exception,int)
+    public byte readByte(byte,int)
+    public android.util.Size readSize(android.util.Size,int)
+    public android.util.SizeF readSizeF(android.util.SizeF,int)
+    public android.util.SparseBooleanArray readSparseBooleanArray(android.util.SparseBooleanArray,int)
+    public java.util.Set readSet(java.util.Set,int)
+    public java.util.List readList(java.util.List,int)
+    public java.util.Map readMap(java.util.Map,int)
+    public java.lang.Object[] readArray(java.lang.Object[],int)
+    protected java.lang.Object[] readArray(java.lang.Object[])
+    protected java.io.Serializable readSerializable()
+    private static final java.lang.String TAG
+    private static final int EX_SECURITY
+    private static final int EX_BAD_PARCELABLE
+    private static final int EX_ILLEGAL_ARGUMENT
+    private static final int EX_NULL_POINTER
+    private static final int EX_ILLEGAL_STATE
+    private static final int EX_NETWORK_MAIN_THREAD
+    private static final int EX_UNSUPPORTED_OPERATION
+    private static final int EX_PARCELABLE
+    private static final int TYPE_VERSIONED_PARCELABLE
+    private static final int TYPE_PARCELABLE
+    private static final int TYPE_SERIALIZABLE
+    private static final int TYPE_STRING
+    private static final int TYPE_BINDER
+    private static final int TYPE_INTEGER
+    private static final int TYPE_FLOAT
+androidx.core.provider.FontsContractCompat$3
+androidx.core.view.ViewCompat$3
+androidx.arch.core.executor.TaskExecutor
+androidx.core.net.DatagramSocketWrapper$DatagramSocketImplWrapper
+androidx.core.text.TextDirectionHeuristicCompat
+androidx.core.graphics.PathSegment
+androidx.customview.widget.ExploreByTouchHelper$1
+androidx.core.app.SharedElementCallback
+androidx.core.graphics.drawable.IconCompat$IconType
+android.support.v4.os.IResultReceiver
+androidx.core.graphics.drawable.RoundedBitmapDrawable
+io.flutter.embedding.android.FlutterFragmentActivity
+com.coloros.ocs.mediaunit.IKaraokeService$Default
+com.coloros.ocs.base.common.api.Api:
+    public com.coloros.ocs.base.common.api.Api$BaseClientBuilder getBaseClientBuilder()
+    public java.lang.String getName()
+androidx.fragment.app.Fragment$3
+androidx.core.database.sqlite.SQLiteCursorCompat
+androidx.core.view.PointerIconCompat
+androidx.fragment.app.ListFragment$2
+androidx.annotation.ColorInt
+io.flutter.embedding.android.FlutterView$RenderMode
+androidx.viewpager.widget.ViewPager$ItemInfo
+androidx.core.view.ViewPropertyAnimatorListener
+io.flutter.embedding.engine.loader.FlutterLoader$2
+androidx.core.net.TrafficStatsCompat
+io.flutter.embedding.android.AndroidTouchProcessor$PointerSignalKind
+androidx.viewpager.widget.ViewPager$1
+io.flutter.plugin.common.ErrorLogResult
+com.coloros.ocs.base.task.Tasks
+androidx.core.view.ViewCompat$AccessibilityViewProperty
+androidx.core.app.ActivityOptionsCompat
+io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager:
+    public abstract void loadAssets(int,java.lang.String)
+    public abstract void loadDartLibrary(int,java.lang.String)
+androidx.customview.widget.FocusStrategy$BoundsAdapter
+androidx.activity.ImmLeaksCleaner:
+    void <init>(android.app.Activity)
+    private static final int NOT_INITIALIAZED
+    private static final int INIT_SUCCESS
+    private static final int INIT_FAILED
+androidx.core.app.NotificationCompat$Action$Extender
+com.coloros.ocs.base.common.api.Api$ApiOptions$Optional
+io.flutter.embedding.engine.plugins.util.GeneratedPluginRegister:
+    public void <init>()
+    private static final java.lang.String TAG
+androidx.fragment.app.FragmentManagerImpl$3
+io.flutter.plugin.common.BinaryCodec
+androidx.core.text.PrecomputedTextCompat
+io.flutter.Log:
+    public void <init>()
+    public static void setLogLevel(int)
+    public static void println(int,java.lang.String,java.lang.String)
+    public static void v(java.lang.String,java.lang.String,java.lang.Throwable)
+    public static void i(java.lang.String,java.lang.String)
+    public static void i(java.lang.String,java.lang.String,java.lang.Throwable)
+    public static void d(java.lang.String,java.lang.String,java.lang.Throwable)
+    public static void wtf(java.lang.String,java.lang.String)
+    public static void wtf(java.lang.String,java.lang.String,java.lang.Throwable)
+androidx.annotation.ColorLong
+androidx.core.app.NotificationCompat$StreamType
+androidx.core.view.LayoutInflaterCompat
+androidx.core.view.MotionEventCompat
+androidx.core.app.JobIntentService$CompatJobEngine
+androidx.core.view.NestedScrollingChildHelper
+io.flutter.view.FlutterNativeView
+androidx.core.view.DragAndDropPermissionsCompat
+androidx.core.view.AccessibilityDelegateCompat
+androidx.core.os.MessageCompat
+io.flutter.plugin.common.PluginRegistry
+androidx.customview.R$dimen
+androidx.core.provider.FontsContractCompat$4$5
+com.coloros.ocs.base.task.OnSuccessListener
+androidx.core.content.ContextCompat$LegacyServiceMapHolder
+io.flutter.plugin.editing.ListenableEditingState$1:
+    final synthetic io.flutter.plugin.editing.ListenableEditingState this$0
+androidx.savedstate.Recreator:
+    private void reflectiveNew(java.lang.String)
+androidx.lifecycle.Lifecycle:
+    java.util.concurrent.atomic.AtomicReference mInternalScopeRef
+io.flutter.embedding.android.AndroidKeyProcessor:
+    private final io.flutter.plugin.editing.TextInputPlugin textInputPlugin
+com.coloros.ocs.base.common.ConnectionResult:
+    private android.app.PendingIntent mPendingIntent
+io.flutter.embedding.engine.plugins.FlutterPlugin$FlutterPluginBinding:
+    private final io.flutter.embedding.engine.FlutterEngine flutterEngine
+    private final io.flutter.view.TextureRegistry textureRegistry
+androidx.savedstate.SavedStateRegistry$AutoRecreated
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutator:
+    private android.graphics.Rect rect
+    private float[] radiis
+    private io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType type
+    final synthetic io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack this$0
+io.flutter.embedding.android.FlutterImageView:
+    private int pendingImages
+androidx.collection.ContainerHelpers:
+    static final long[] EMPTY_LONGS
+com.coloros.ocs.mediaunit.MediaUnitClient$3:
+    final synthetic com.coloros.ocs.mediaunit.MediaUnitClient this$0
+com.coloros.ocs.base.common.api.c$2:
+    final synthetic com.coloros.ocs.base.common.api.c b
+androidx.lifecycle.MethodCallsLogger:
+    private java.util.Map mCalledMethods
+io.flutter.embedding.android.DrawableSplashScreen$1:
+    final synthetic io.flutter.embedding.android.DrawableSplashScreen this$0
+com.coloros.ocs.base.task.q
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$1$1:
+    final synthetic io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$1 this$1
+io.flutter.plugin.mouse.MouseCursorPlugin$2:
+    final synthetic io.flutter.plugin.mouse.MouseCursorPlugin this$0
+com.coloros.ocs.base.internal.ClientSettings:
+    private java.lang.String a
+    private int b
+    private java.util.List c
+androidx.core.app.NotificationManagerCompat:
+    private static final java.lang.Object sEnabledNotificationListenersLock
+    private static java.util.Set sEnabledNotificationListenerPackages
+    private static final java.lang.Object sLock
+io.flutter.plugin.editing.TextInputPlugin$2:
+    final synthetic io.flutter.plugin.editing.TextInputPlugin this$0
+io.flutter.embedding.engine.FlutterEngineConnectionRegistry$FlutterEngineActivityPluginBinding:
+    private final io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference hiddenLifecycleReference
+io.flutter.embedding.engine.loader.FlutterApplicationInfo:
+    public final java.lang.String vmSnapshotData
+    public final java.lang.String isolateSnapshotData
+com.huawei.multimedia.audiokit.interfaces.HwAudioKit:
+    private static final java.util.List DEFAULT_FEATURE_LIST
+com.coloros.ocs.base.common.api.c$1:
+    final synthetic com.coloros.ocs.base.common.api.c c
+androidx.core.content.ContextCompat:
+    private static final java.lang.Object sLock
+io.flutter.plugin.platform.VirtualDisplayController$1:
+    final synthetic io.flutter.plugin.platform.VirtualDisplayController this$0
+io.flutter.FlutterInjector:
+    private static boolean accessed
+io.flutter.view.AccessibilityBridge$SemanticsNode:
+    private io.flutter.view.AccessibilityBridge$TextDirection textDirection
+    private float previousScrollExtentMax
+    private float previousScrollExtentMin
+com.coloros.ocs.base.task.TaskImpl:
+    private final java.lang.Object a
+    private com.coloros.ocs.base.task.q d
+com.coloros.ocs.mediaunit.MediaUnitClient$5:
+    final synthetic com.coloros.ocs.mediaunit.MediaUnitClient this$0
+io.flutter.embedding.engine.loader.FlutterLoader$InitResult:
+    final java.lang.String dataDirPath
+com.coloros.ocs.base.common.api.Api:
+    private java.lang.String mName
+io.flutter.Log:
+    private static int logLevel
+    public static int ASSERT
+    public static int DEBUG
+    public static int ERROR
+    public static int INFO
+    public static int VERBOSE
+    public static int WARN

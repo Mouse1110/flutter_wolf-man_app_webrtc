@@ -1,0 +1,4 @@
+#Sat Jul 10 17:31:03 ICT 2021
+base.0=/home/mouse/Documents/Source/Front-end/flutter/musicbackground/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
